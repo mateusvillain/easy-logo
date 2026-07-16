@@ -1,0 +1,14 @@
+{
+  "name": "easy-logo",
+  "version": "0.1.0",
+  "private": true,
+  "license": "CC0-1.0",
+  "packageManager": "pnpm@10.33.0",
+  "scripts": {
+    "dev": "pnpm --filter @easy-logo/web dev",
+    "build": "pnpm --filter @easy-logo/web build",
+    "preview": "pnpm --filter @easy-logo/web preview",
+    "generate": "pnpm --filter @easy-logo/logos generate",
+    "typecheck": "pnpm -r typecheck"
+  }
+}

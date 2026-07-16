@@ -1,0 +1,27 @@
+name: Logo request
+description: Request a brand logo to be added to the catalog
+title: '[Logo]: '
+labels: ['logo request']
+body:
+  - type: input
+    id: brand
+    attributes:
+      label: Brand name
+      placeholder: e.g. Spotify
+    validations:
+      required: true
+  - type: input
+    id: slug
+    attributes:
+      label: Simple Icons slug (if known)
+      description: Check https://simpleicons.org — logos are sourced from there.
+      placeholder: e.g. spotify
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Why should this logo be included?
+    validations:
+      required: false

@@ -1,0 +1,188 @@
+:root {
+  color-scheme: light dark;
+  --bg: #f6f7f9;
+  --fg: #16181d;
+  --muted: #5c6470;
+  --card-bg: #ffffff;
+  --card-border: #e4e7ec;
+  --button-bg: #f0f2f5;
+  --button-hover: #e4e7ec;
+  --primary: #16181d;
+  --primary-fg: #ffffff;
+  --ring: #9aa4b2;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #101216;
+    --fg: #eceef2;
+    --muted: #9aa4b2;
+    --card-bg: #181b21;
+    --card-border: #262a32;
+    --button-bg: #21252d;
+    --button-hover: #2a2f39;
+    --primary: #eceef2;
+    --primary-fg: #101216;
+    --ring: #4a5261;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family:
+    -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.app {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 3rem;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.header-title {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 0.5rem;
+}
+
+.header-mark {
+  margin-right: 0.25rem;
+}
+
+.header-subtitle {
+  color: var(--muted);
+  margin: 0 0 1.5rem;
+}
+
+.search {
+  width: 100%;
+  max-width: 28rem;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  color: var(--fg);
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 0.75rem;
+  outline: none;
+  transition: border-color 0.15s ease;
+}
+
+.search:focus {
+  border-color: var(--ring);
+}
+
+.grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(10.5rem, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1.25rem 1rem 1rem;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 1rem;
+}
+
+.card-preview {
+  width: 3.5rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-preview svg {
+  width: 100%;
+  height: 100%;
+  fill: currentColor;
+}
+
+@media (prefers-color-scheme: dark) {
+  .card-preview {
+    /* Near-black brand marks (Apple, GitHub, X…) vanish on dark cards. */
+    background: #ffffff;
+    border-radius: 0.75rem;
+    padding: 0.5rem;
+  }
+}
+
+.card-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.card-actions {
+  display: flex;
+  gap: 0.5rem;
+  width: 100%;
+}
+
+.button {
+  flex: 1;
+  padding: 0.45rem 0.25rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--fg);
+  background: var(--button-bg);
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.button:hover {
+  background: var(--button-hover);
+}
+
+.button-primary {
+  color: var(--primary-fg);
+  background: var(--primary);
+}
+
+.button-primary:hover {
+  background: var(--primary);
+  opacity: 0.85;
+}
+
+.empty {
+  text-align: center;
+  color: var(--muted);
+  padding: 3rem 0;
+}
+
+.footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.footer a {
+  color: inherit;
+}
