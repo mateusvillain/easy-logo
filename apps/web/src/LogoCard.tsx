@@ -2,10 +2,9 @@ import { useEffect, useRef, useState } from 'react';
 import type { Logo } from '@easy-logo/logos';
 import { CheckIcon, CopyIcon, DownloadIcon } from './icons';
 
-type Variant = 'symbol' | 'wordmark';
+export type Variant = 'symbol' | 'wordmark';
 
-export function LogoCard({ logo }: { logo: Logo }) {
-  const [variant, setVariant] = useState<Variant>('symbol');
+export function LogoCard({ logo, variant }: { logo: Logo; variant: Variant }) {
   const [copied, setCopied] = useState(false);
   const copyTimeout = useRef<ReturnType<typeof setTimeout>>(undefined);
 
@@ -38,25 +37,8 @@ export function LogoCard({ logo }: { logo: Logo }) {
       />
       <span className="card-title" title={logo.title}>
         {logo.title}
+        {variant === 'wordmark' && <span className="card-variant">Logo</span>}
       </span>
-      {logo.wordmarkSvg && (
-        <div className="variant-toggle" role="group" aria-label={`${logo.title} variant`}>
-          <button
-            type="button"
-            className={`variant-button ${variant === 'symbol' ? 'variant-active' : ''}`}
-            onClick={() => setVariant('symbol')}
-          >
-            Symbol
-          </button>
-          <button
-            type="button"
-            className={`variant-button ${variant === 'wordmark' ? 'variant-active' : ''}`}
-            onClick={() => setVariant('wordmark')}
-          >
-            Logo
-          </button>
-        </div>
-      )}
       <div className="card-actions">
         <button
           type="button"

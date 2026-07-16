@@ -42,9 +42,32 @@ body {
 }
 
 .app {
+  position: relative;
   max-width: 72rem;
   margin: 0 auto;
   padding: 2.5rem 1.5rem 3rem;
+}
+
+.repo-link {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--fg);
+  text-decoration: none;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 0.5rem;
+  transition: background 0.15s ease;
+}
+
+.repo-link:hover {
+  background: var(--button-bg);
 }
 
 .header {
@@ -137,28 +160,15 @@ body {
   padding: 0.25rem 0.5rem;
 }
 
-.variant-toggle {
-  display: flex;
-  gap: 0.25rem;
-  padding: 0.2rem;
-  background: var(--button-bg);
-  border-radius: 0.5rem;
-}
-
-.variant-button {
-  padding: 0.2rem 0.6rem;
-  font-size: 0.7rem;
+.card-variant {
+  margin-left: 0.4rem;
+  padding: 0.1rem 0.4rem;
+  font-size: 0.65rem;
   font-weight: 600;
   color: var(--muted);
-  background: transparent;
-  border: none;
-  border-radius: 0.4rem;
-  cursor: pointer;
-}
-
-.variant-active {
-  color: var(--fg);
-  background: var(--card-bg);
+  background: var(--button-bg);
+  border-radius: 0.35rem;
+  vertical-align: 0.1rem;
 }
 
 @media (prefers-color-scheme: dark) {

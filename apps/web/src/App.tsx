@@ -1,14 +1,35 @@
 import { useDeferredValue, useMemo, useState } from 'react';
 import { searchLogos, logos } from '@easy-logo/logos';
-import { LogoCard } from './LogoCard';
+import { LogoCard, type Variant } from './LogoCard';
+import { GitHubIcon } from './icons';
+
+const REPO_URL = 'https://github.com/mateusvillain/easy-logo';
 
 export function App() {
   const [query, setQuery] = useState('');
   const deferredQuery = useDeferredValue(query);
-  const results = useMemo(() => searchLogos(deferredQuery), [deferredQuery]);
+  const cards = useMemo(
+    () =>
+      searchLogos(deferredQuery).flatMap((logo) => {
+        const variants: Variant[] = logo.wordmarkSvg ? ['symbol', 'wordmark'] : ['symbol'];
+        return variants.map((variant) => ({ logo, variant }));
+      }),
+    [deferredQuery],
+  );
 
   return (
     <div className="app">
+      <a
+        className="repo-link"
+        href={REPO_URL}
+        target="_blank"
+        rel="noreferrer"
+        aria-label="Easy Logo repository on GitHub"
+      >
+        <GitHubIcon />
+        GitHub
+      </a>
+
       <header className="header">
         <h1 className="header-title">
           Easy Logo
@@ -31,14 +52,14 @@ export function App() {
       </div>
 
       <main>
-        {results.length === 0 ? (
+        {cards.length === 0 ? (
           <p className="empty">
             No logos found for “{deferredQuery}”. Try another brand name.
           </p>
         ) : (
           <ul className="grid">
-            {results.map((logo) => (
-              <LogoCard key={logo.slug} logo={logo} />
+            {cards.map(({ logo, variant }) => (
+              <LogoCard key={`${logo.slug}-${variant}`} logo={logo} variant={variant} />
             ))}
           </ul>
         )}
