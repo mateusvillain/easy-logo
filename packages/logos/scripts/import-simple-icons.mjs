@@ -18,6 +18,8 @@ const CURATED_SLUGS = [
   'samsung', 'sony', 'lg', 'xiaomi', 'huawei', 'dell', 'hp', 'lenovo', 'asus',
   'sap', 'salesforce', 'shopify', 'paypal', 'stripe', 'square',
   'ebay', 'aliexpress', 'alibabadotcom', 'mercadopago',
+  // Brazilian companies
+  'picpay', 'pagseguro', 'vtex', 'totvs',
   // Social & communication
   'x', 'instagram', 'facebook', 'whatsapp', 'telegram', 'discord', 'slack',
   'tiktok', 'youtube', 'twitch', 'reddit', 'pinterest', 'snapchat', 'threads',

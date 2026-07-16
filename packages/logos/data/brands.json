@@ -705,6 +705,11 @@
     "hex": "E40521"
   },
   {
+    "slug": "hotmart",
+    "title": "Hotmart",
+    "hex": "F04E23"
+  },
+  {
     "slug": "hp",
     "title": "HP",
     "hex": "0096D6"
@@ -990,6 +995,11 @@
     "hex": "000000"
   },
   {
+    "slug": "mercadolivre",
+    "title": "Mercado Livre",
+    "hex": "FFE600"
+  },
+  {
     "slug": "mercadopago",
     "title": "Mercado Pago",
     "hex": "00B1EA"
@@ -1165,6 +1175,11 @@
     "hex": "A6CE39"
   },
   {
+    "slug": "pagseguro",
+    "title": "PagSeguro",
+    "hex": "FFC801"
+  },
+  {
     "slug": "pandas",
     "title": "pandas",
     "hex": "150458"
@@ -1188,6 +1203,11 @@
     "slug": "php",
     "title": "PHP",
     "hex": "777BB4"
+  },
+  {
+    "slug": "picpay",
+    "title": "PicPay",
+    "hex": "21C25E"
   },
   {
     "slug": "pinterest",
@@ -1625,6 +1645,11 @@
     "hex": "7D4698"
   },
   {
+    "slug": "totvs",
+    "title": "TOTVS",
+    "hex": "363636"
+  },
+  {
     "slug": "toyota",
     "title": "Toyota",
     "hex": "EB0A1E"
@@ -1778,6 +1803,11 @@
     "slug": "volvo",
     "title": "Volvo",
     "hex": "003057"
+  },
+  {
+    "slug": "vtex",
+    "title": "VTEX",
+    "hex": "ED125F"
   },
   {
     "slug": "vuedotjs",

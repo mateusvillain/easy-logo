@@ -22,6 +22,7 @@ const TITLE_ALIASES = {
   x: 'twitter',
   claude: 'claude ai',
   googlegemini: 'gemini',
+  mercadolivre: 'mercado libre',
 };
 
 function normalize(title) {

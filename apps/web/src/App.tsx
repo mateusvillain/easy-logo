@@ -67,11 +67,10 @@ export function App() {
 
       <footer className="footer">
         <p>
-          Logos from{' '}
-          <a href="https://simpleicons.org" target="_blank" rel="noreferrer">
-            Simple Icons
+          <a href={REPO_URL} target="_blank" rel="noreferrer">
+            Open source
           </a>{' '}
-          (CC0). All trademarks belong to their respective owners.
+          under CC0. All trademarks belong to their respective owners.
         </p>
       </footer>
     </div>
