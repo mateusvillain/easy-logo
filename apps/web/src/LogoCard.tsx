@@ -1,25 +1,30 @@
 import { useEffect, useRef, useState } from 'react';
 import type { Logo } from '@easy-logo/logos';
 
+type Variant = 'symbol' | 'wordmark';
+
 export function LogoCard({ logo }: { logo: Logo }) {
+  const [variant, setVariant] = useState<Variant>('symbol');
   const [copied, setCopied] = useState(false);
   const copyTimeout = useRef<ReturnType<typeof setTimeout>>(undefined);
 
   useEffect(() => () => clearTimeout(copyTimeout.current), []);
 
+  const svg = variant === 'wordmark' && logo.wordmarkSvg ? logo.wordmarkSvg : logo.svg;
+
   async function handleCopy() {
-    await navigator.clipboard.writeText(logo.svg);
+    await navigator.clipboard.writeText(svg);
     setCopied(true);
     clearTimeout(copyTimeout.current);
     copyTimeout.current = setTimeout(() => setCopied(false), 1500);
   }
 
   function handleDownload() {
-    const blob = new Blob([logo.svg], { type: 'image/svg+xml' });
+    const blob = new Blob([svg], { type: 'image/svg+xml' });
     const url = URL.createObjectURL(blob);
     const anchor = document.createElement('a');
     anchor.href = url;
-    anchor.download = `${logo.slug}.svg`;
+    anchor.download = variant === 'wordmark' ? `${logo.slug}-wordmark.svg` : `${logo.slug}.svg`;
     anchor.click();
     URL.revokeObjectURL(url);
   }
@@ -27,13 +32,30 @@ export function LogoCard({ logo }: { logo: Logo }) {
   return (
     <li className="card">
       <div
-        className="card-preview"
-        style={{ color: `#${logo.hex}` }}
-        dangerouslySetInnerHTML={{ __html: logo.svg }}
+        className={`card-preview ${variant === 'wordmark' ? 'card-preview-wordmark' : ''}`}
+        dangerouslySetInnerHTML={{ __html: svg }}
       />
       <span className="card-title" title={logo.title}>
         {logo.title}
       </span>
+      {logo.wordmarkSvg && (
+        <div className="variant-toggle" role="group" aria-label={`${logo.title} variant`}>
+          <button
+            type="button"
+            className={`variant-button ${variant === 'symbol' ? 'variant-active' : ''}`}
+            onClick={() => setVariant('symbol')}
+          >
+            Symbol
+          </button>
+          <button
+            type="button"
+            className={`variant-button ${variant === 'wordmark' ? 'variant-active' : ''}`}
+            onClick={() => setVariant('wordmark')}
+          >
+            Logo
+          </button>
+        </div>
+      )}
       <div className="card-actions">
         <button
           type="button"

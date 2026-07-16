@@ -11,6 +11,8 @@
   },
   "scripts": {
     "generate": "node scripts/generate.mjs",
+    "import:icons": "node scripts/import-simple-icons.mjs",
+    "import:wordmarks": "node scripts/import-svgl-wordmarks.mjs",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {

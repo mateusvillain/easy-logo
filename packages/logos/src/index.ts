@@ -7,8 +7,10 @@ export interface Logo {
   slug: string;
   /** Brand color as a hex string without "#", e.g. "181717" */
   hex: string;
-  /** Full standalone SVG markup (24x24 viewBox) */
+  /** Brand symbol as standalone SVG markup (24x24 viewBox) */
   svg: string;
+  /** Full logotype (wordmark) as standalone SVG markup, when available */
+  wordmarkSvg?: string;
 }
 
 export const logos: Logo[] = logosData;

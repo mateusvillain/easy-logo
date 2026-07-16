@@ -11,7 +11,7 @@ export function App() {
     <div className="app">
       <header className="header">
         <h1 className="header-title">
-          <span className="header-mark">⚡</span> Easy Logo
+          Easy Logo
         </h1>
         <p className="header-subtitle">
           Search {logos.length} brand logos. Download the SVG or copy the code.
