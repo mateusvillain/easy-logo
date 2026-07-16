@@ -16,6 +16,9 @@ export function App() {
         <p className="header-subtitle">
           Search {logos.length} brand logos. Download the SVG or copy the code.
         </p>
+      </header>
+
+      <div className="search-bar">
         <input
           type="search"
           className="search"
@@ -25,7 +28,7 @@ export function App() {
           autoFocus
           aria-label="Search brand logos"
         />
-      </header>
+      </div>
 
       <main>
         {results.length === 0 ? (

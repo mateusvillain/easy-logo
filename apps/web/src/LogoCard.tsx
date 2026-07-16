@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import type { Logo } from '@easy-logo/logos';
+import { CheckIcon, CopyIcon, DownloadIcon } from './icons';
 
 type Variant = 'symbol' | 'wordmark';
 
@@ -62,16 +63,18 @@ export function LogoCard({ logo }: { logo: Logo }) {
           className="button"
           onClick={handleCopy}
           aria-label={`Copy ${logo.title} SVG code`}
+          title="Copy SVG code"
         >
-          {copied ? 'Copied!' : 'Copy SVG'}
+          {copied ? <CheckIcon /> : <CopyIcon />}
         </button>
         <button
           type="button"
           className="button button-primary"
           onClick={handleDownload}
           aria-label={`Download ${logo.title} SVG file`}
+          title="Download SVG file"
         >
-          Download
+          <DownloadIcon />
         </button>
       </div>
     </li>
