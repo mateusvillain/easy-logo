@@ -1,0 +1,15 @@
+# Easy Logo
+
+> Search famous brand logos, download the SVG file, or copy the SVG code — all in one simple page.
+
+Easy Logo is a free, open source web app with a searchable catalog of brand logo SVGs (symbol and, where available, full wordmark). Everything runs client-side: search filters the catalog instantly, and each result can be downloaded as an SVG file or copied as inline SVG code.
+
+## Docs
+
+- [Homepage](https://mateusvillain.github.io/easy-logo/): search and download brand logo SVGs
+- [Repository](https://github.com/mateusvillain/easy-logo): source code, the logo catalog, and how to contribute
+- [README](https://github.com/mateusvillain/easy-logo/blob/main/README.md): repository structure and how to add or remove logos
+
+## License
+
+All logo SVGs and code are released under [CC0 1.0](https://github.com/mateusvillain/easy-logo/blob/main/LICENSE) — public domain, no attribution required. Brand names and marks belong to their respective owners.

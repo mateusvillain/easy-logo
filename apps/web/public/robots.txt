@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mateusvillain.github.io/easy-logo/sitemap.xml
