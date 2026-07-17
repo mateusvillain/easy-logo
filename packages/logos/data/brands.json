@@ -105,6 +105,11 @@
     "hex": "2E77BC"
   },
   {
+    "slug": "americanas",
+    "title": "Americanas",
+    "hex": "F80032"
+  },
+  {
     "slug": "anaconda",
     "title": "Anaconda",
     "hex": "44A833"
@@ -255,9 +260,34 @@
     "hex": "252F3E"
   },
   {
+    "slug": "azul",
+    "title": "Azul Linhas Aéreas",
+    "hex": "041E42"
+  },
+  {
     "slug": "babel",
     "title": "Babel",
     "hex": "F9DC3E"
+  },
+  {
+    "slug": "bancobmg",
+    "title": "Banco BMG",
+    "hex": "FF6300"
+  },
+  {
+    "slug": "bancodobrasil",
+    "title": "Banco do Brasil",
+    "hex": "FFFFFF"
+  },
+  {
+    "slug": "bancointer",
+    "title": "Banco Inter",
+    "hex": "EA7100"
+  },
+  {
+    "slug": "bancooriginal",
+    "title": "Banco Original",
+    "hex": "00A857"
   },
   {
     "slug": "bankofamerica",
@@ -360,9 +390,24 @@
     "hex": "0061D5"
   },
   {
+    "slug": "bradesco",
+    "title": "Bradesco",
+    "hex": "E5173F"
+  },
+  {
+    "slug": "brahma",
+    "title": "Brahma",
+    "hex": "BE0000"
+  },
+  {
     "slug": "brave",
     "title": "Brave",
     "hex": "FB542B"
+  },
+  {
+    "slug": "btgpactual",
+    "title": "BTG Pactual",
+    "hex": "001E61"
   },
   {
     "slug": "bugatti",
@@ -395,6 +440,11 @@
     "hex": "00599C"
   },
   {
+    "slug": "caixa",
+    "title": "Caixa",
+    "hex": "F7941D"
+  },
+  {
     "slug": "calcom",
     "title": "Cal.com",
     "hex": "292929"
@@ -413,6 +463,11 @@
     "slug": "carrefour",
     "title": "Carrefour",
     "hex": "004E9F"
+  },
+  {
+    "slug": "casasbahia",
+    "title": "Casas Bahia",
+    "hex": "0033C5"
   },
   {
     "slug": "cashapp",
@@ -453,6 +508,11 @@
     "slug": "cisco",
     "title": "Cisco",
     "hex": "00BCEB"
+  },
+  {
+    "slug": "claro",
+    "title": "Claro",
+    "hex": "505050"
   },
   {
     "slug": "claude",
@@ -533,6 +593,11 @@
     "slug": "convex",
     "title": "Convex",
     "hex": "F3B01C"
+  },
+  {
+    "slug": "correios",
+    "title": "Correios",
+    "hex": "FFC20E"
   },
   {
     "slug": "coursera",
@@ -830,6 +895,11 @@
     "hex": "000000"
   },
   {
+    "slug": "extra",
+    "title": "Extra",
+    "hex": "E3131A"
+  },
+  {
     "slug": "facebook",
     "title": "Facebook",
     "hex": "0866FF"
@@ -925,6 +995,11 @@
     "hex": "FFDB1E"
   },
   {
+    "slug": "garoto",
+    "title": "Garoto",
+    "hex": "E30613"
+  },
+  {
     "slug": "gatsby",
     "title": "Gatsby",
     "hex": "64328B"
@@ -998,6 +1073,11 @@
     "slug": "godotengine",
     "title": "Godot Engine",
     "hex": "478CBF"
+  },
+  {
+    "slug": "gol",
+    "title": "GOL Linhas Aéreas",
+    "hex": "37322D"
   },
   {
     "slug": "google",
@@ -1118,6 +1198,11 @@
     "slug": "haskell",
     "title": "Haskell",
     "hex": "453A62"
+  },
+  {
+    "slug": "havaianas",
+    "title": "Havaianas",
+    "hex": "FB373C"
   },
   {
     "slug": "hbomax",
@@ -1270,6 +1355,11 @@
     "hex": "0071C5"
   },
   {
+    "slug": "intelbras",
+    "title": "Intelbras",
+    "hex": "33AF2E"
+  },
+  {
     "slug": "intellijidea",
     "title": "IntelliJ IDEA",
     "hex": "000000"
@@ -1283,6 +1373,16 @@
     "slug": "ionic",
     "title": "Ionic",
     "hex": "3880FF"
+  },
+  {
+    "slug": "ipiranga",
+    "title": "Ipiranga",
+    "hex": "0043BC"
+  },
+  {
+    "slug": "itau",
+    "title": "Itaú",
+    "hex": "1A5493"
   },
   {
     "slug": "itchdotio",
@@ -1440,6 +1540,11 @@
     "hex": "D32D27"
   },
   {
+    "slug": "latam",
+    "title": "LATAM Airlines",
+    "hex": "ED1651"
+  },
+  {
     "slug": "leagueoflegends",
     "title": "League of Legends",
     "hex": "C28F2C"
@@ -1510,6 +1615,16 @@
     "hex": "A6A9AA"
   },
   {
+    "slug": "localiza",
+    "title": "Localiza",
+    "hex": "78DE1F"
+  },
+  {
+    "slug": "lojasrenner",
+    "title": "Lojas Renner",
+    "hex": "D72027"
+  },
+  {
     "slug": "looker",
     "title": "Looker",
     "hex": "4285F4"
@@ -1543,6 +1658,11 @@
     "slug": "lyft",
     "title": "Lyft",
     "hex": "FF00BF"
+  },
+  {
+    "slug": "magalu",
+    "title": "Magalu",
+    "hex": "FFFFFF"
   },
   {
     "slug": "mailchimp",
@@ -1795,6 +1915,16 @@
     "hex": "E03C31"
   },
   {
+    "slug": "natura",
+    "title": "Natura",
+    "hex": "000000"
+  },
+  {
+    "slug": "naturaco",
+    "title": "Natura &Co",
+    "hex": "1D1D1B"
+  },
+  {
     "slug": "neon",
     "title": "Neon",
     "hex": "37C38F"
@@ -1900,6 +2030,11 @@
     "hex": "000000"
   },
   {
+    "slug": "oboticario",
+    "title": "O Boticário",
+    "hex": "000000"
+  },
+  {
     "slug": "obsstudio",
     "title": "OBS Studio",
     "hex": "302E31"
@@ -1908,6 +2043,11 @@
     "slug": "obsidian",
     "title": "Obsidian",
     "hex": "7C3AED"
+  },
+  {
+    "slug": "oi",
+    "title": "Oi",
+    "hex": "FFCC33"
   },
   {
     "slug": "ollama",
@@ -1948,6 +2088,11 @@
     "slug": "orcid",
     "title": "ORCID",
     "hex": "A6CE39"
+  },
+  {
+    "slug": "oticascarol",
+    "title": "Óticas Carol",
+    "hex": "1F3F77"
   },
   {
     "slug": "pagseguro",
@@ -2073,6 +2218,11 @@
     "slug": "porsche",
     "title": "Porsche",
     "hex": "B12B28"
+  },
+  {
+    "slug": "positivo",
+    "title": "Positivo",
+    "hex": "FFFFFF"
   },
   {
     "slug": "postcss",
@@ -2370,6 +2520,11 @@
     "hex": "073590"
   },
   {
+    "slug": "sadia",
+    "title": "Sadia",
+    "hex": "D2232A"
+  },
+  {
     "slug": "safari",
     "title": "Safari",
     "hex": "006CFF"
@@ -2388,6 +2543,11 @@
     "slug": "sanity",
     "title": "Sanity",
     "hex": "F03E2F"
+  },
+  {
+    "slug": "santander",
+    "title": "Santander",
+    "hex": "FFFFFF"
   },
   {
     "slug": "sap",
@@ -2448,6 +2608,11 @@
     "slug": "sketch",
     "title": "Sketch",
     "hex": "F7B500"
+  },
+  {
+    "slug": "skol",
+    "title": "Skol",
+    "hex": "FFFFFF"
   },
   {
     "slug": "skype",
@@ -2745,6 +2910,11 @@
     "hex": "0098EA"
   },
   {
+    "slug": "topper",
+    "title": "Topper",
+    "hex": "FFFFFF"
+  },
+  {
     "slug": "torproject",
     "title": "Tor Project",
     "hex": "7D4698"
@@ -2875,6 +3045,11 @@
     "hex": "1D1D1D"
   },
   {
+    "slug": "unimed",
+    "title": "Unimed",
+    "hex": "018553"
+  },
+  {
     "slug": "uniqlo",
     "title": "Uniqlo",
     "hex": "FF0000"
@@ -2973,6 +3148,11 @@
     "slug": "vivaldi",
     "title": "Vivaldi",
     "hex": "EF3939"
+  },
+  {
+    "slug": "vivo",
+    "title": "Vivo",
+    "hex": "415FFF"
   },
   {
     "slug": "vk",
@@ -3128,6 +3308,11 @@
     "slug": "xiaomi",
     "title": "Xiaomi",
     "hex": "FF6900"
+  },
+  {
+    "slug": "xp",
+    "title": "XP Inc.",
+    "hex": "121212"
   },
   {
     "slug": "xrp",
