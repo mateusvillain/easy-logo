@@ -39,7 +39,11 @@ export function App() {
         </p>
       </header>
 
-      <div className="search-bar">
+      <form
+        className="search-bar"
+        role="search"
+        onSubmit={(event) => event.preventDefault()}
+      >
         <input
           type="search"
           className="search"
@@ -49,7 +53,13 @@ export function App() {
           autoFocus
           aria-label="Search brand logos"
         />
-      </div>
+      </form>
+
+      <p className="sr-only" role="status">
+        {cards.length === 0
+          ? `No logos found for ${deferredQuery}`
+          : `${cards.length} logos shown`}
+      </p>
 
       <main>
         {cards.length === 0 ? (

@@ -41,10 +41,13 @@ export function LogoCard({ logo, variant }: { logo: Logo; variant: Variant }) {
     anchor.click();
   }
 
+  const variantName = variant === 'wordmark' ? 'wordmark' : 'symbol';
+
   return (
     <li className="card">
       <div className={`card-preview ${variant === 'wordmark' ? 'card-preview-wordmark' : ''}`}>
-        <img src={url} alt={`${logo.title} logo`} loading="lazy" />
+        {/* Decorative: the brand name is the visible card title next to it. */}
+        <img src={url} alt="" loading="lazy" />
       </div>
       <span className="card-title" title={logo.title}>
         {logo.title}
@@ -55,7 +58,7 @@ export function LogoCard({ logo, variant }: { logo: Logo; variant: Variant }) {
           type="button"
           className="button"
           onClick={handleCopy}
-          aria-label={`Copy ${logo.title} SVG code`}
+          aria-label={`Copy ${logo.title} ${variantName} SVG code`}
           title="Copy SVG code"
         >
           {copied ? <CheckIcon /> : <CopyIcon />}
@@ -64,11 +67,14 @@ export function LogoCard({ logo, variant }: { logo: Logo; variant: Variant }) {
           type="button"
           className="button button-primary"
           onClick={handleDownload}
-          aria-label={`Download ${logo.title} SVG file`}
+          aria-label={`Download ${logo.title} ${variantName} SVG file`}
           title="Download SVG file"
         >
           <DownloadIcon />
         </button>
+        <span className="sr-only" role="status">
+          {copied ? `${logo.title} ${variantName} SVG code copied` : ''}
+        </span>
       </div>
     </li>
   );
