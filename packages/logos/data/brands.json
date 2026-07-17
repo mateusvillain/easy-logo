@@ -1,5 +1,10 @@
 [
   {
+    "slug": "dotnet",
+    "title": ".NET",
+    "hex": "512BD4"
+  },
+  {
     "slug": "1password",
     "title": "1Password",
     "hex": "3B66BC"
@@ -10,9 +15,44 @@
     "hex": "000000"
   },
   {
+    "slug": "abacatepay",
+    "title": "AbacatePay",
+    "hex": "244C4E"
+  },
+  {
+    "slug": "acrobatreader",
+    "title": "Acrobat Reader",
+    "hex": "B30B00"
+  },
+  {
     "slug": "adidas",
     "title": "Adidas",
     "hex": "000000"
+  },
+  {
+    "slug": "adobe",
+    "title": "Adobe",
+    "hex": "EB1000"
+  },
+  {
+    "slug": "affinitydesigner",
+    "title": "Affinity Designer",
+    "hex": "134881"
+  },
+  {
+    "slug": "affinityphoto",
+    "title": "Affinity Photo",
+    "hex": "4E3188"
+  },
+  {
+    "slug": "affinitypublisher",
+    "title": "Affinity Publisher",
+    "hex": "891B26"
+  },
+  {
+    "slug": "aftereffects",
+    "title": "After Effects",
+    "hex": "00005B"
   },
   {
     "slug": "airbnb",
@@ -28,6 +68,16 @@
     "slug": "aldinord",
     "title": "Aldi Nord",
     "hex": "2490D7"
+  },
+  {
+    "slug": "algolia",
+    "title": "Algolia",
+    "hex": "5468FF"
+  },
+  {
+    "slug": "algorand",
+    "title": "Algorand",
+    "hex": "627EEA"
   },
   {
     "slug": "alibabadotcom",
@@ -70,14 +120,34 @@
     "hex": "0F0F11"
   },
   {
+    "slug": "animate",
+    "title": "Animate",
+    "hex": "00005B"
+  },
+  {
     "slug": "ansible",
     "title": "Ansible",
     "hex": "EE0000"
   },
   {
+    "slug": "antdesign",
+    "title": "Ant Design",
+    "hex": "4285EB"
+  },
+  {
     "slug": "anthropic",
     "title": "Anthropic",
     "hex": "191919"
+  },
+  {
+    "slug": "apachekafka",
+    "title": "Apache Kafka",
+    "hex": "1A1919"
+  },
+  {
+    "slug": "appstore",
+    "title": "App Store",
+    "hex": "18BFFB"
   },
   {
     "slug": "apple",
@@ -93,6 +163,11 @@
     "slug": "appletv",
     "title": "Apple TV",
     "hex": "000000"
+  },
+  {
+    "slug": "appwrite",
+    "title": "Appwrite",
+    "hex": "19191D"
   },
   {
     "slug": "arc",
@@ -135,6 +210,16 @@
     "hex": "000000"
   },
   {
+    "slug": "atlassian",
+    "title": "Atlassian",
+    "hex": "0052CC"
+  },
+  {
+    "slug": "atom",
+    "title": "Atom",
+    "hex": "60B57D"
+  },
+  {
     "slug": "audacity",
     "title": "Audacity",
     "hex": "0000CC"
@@ -145,9 +230,34 @@
     "hex": "BB0A30"
   },
   {
+    "slug": "audition",
+    "title": "Audition",
+    "hex": "00005B"
+  },
+  {
+    "slug": "authjs",
+    "title": "Auth.js",
+    "hex": "E3E2FA"
+  },
+  {
+    "slug": "auth0",
+    "title": "Auth0",
+    "hex": "EB5424"
+  },
+  {
     "slug": "authy",
     "title": "Authy",
     "hex": "EC1C24"
+  },
+  {
+    "slug": "aws",
+    "title": "AWS",
+    "hex": "252F3E"
+  },
+  {
+    "slug": "babel",
+    "title": "Babel",
+    "hex": "F9DC3E"
   },
   {
     "slug": "bankofamerica",
@@ -160,6 +270,11 @@
     "hex": "00AEEF"
   },
   {
+    "slug": "bash",
+    "title": "Bash",
+    "hex": "1B1B1F"
+  },
+  {
     "slug": "behance",
     "title": "Behance",
     "hex": "1769FF"
@@ -170,9 +285,24 @@
     "hex": "333333"
   },
   {
+    "slug": "betterauth",
+    "title": "Better Auth",
+    "hex": "000000"
+  },
+  {
     "slug": "binance",
     "title": "Binance",
     "hex": "F0B90B"
+  },
+  {
+    "slug": "bing",
+    "title": "Bing",
+    "hex": "00CACC"
+  },
+  {
+    "slug": "biome",
+    "title": "Biome",
+    "hex": "60A5FA"
   },
   {
     "slug": "bitbucket",
@@ -203,6 +333,16 @@
     "slug": "bmw",
     "title": "BMW",
     "hex": "0066B1"
+  },
+  {
+    "slug": "bnb",
+    "title": "BNB",
+    "hex": "F3BA2F"
+  },
+  {
+    "slug": "bolt",
+    "title": "Bolt",
+    "hex": "000000"
   },
   {
     "slug": "bookingdotcom",
@@ -240,6 +380,11 @@
     "hex": "D62300"
   },
   {
+    "slug": "buymeacoffee",
+    "title": "Buy Me a Coffee",
+    "hex": "0D0C22"
+  },
+  {
     "slug": "c",
     "title": "C",
     "hex": "A8B9CC"
@@ -248,6 +393,16 @@
     "slug": "cplusplus",
     "title": "C++",
     "hex": "00599C"
+  },
+  {
+    "slug": "calcom",
+    "title": "Cal.com",
+    "hex": "292929"
+  },
+  {
+    "slug": "calendly",
+    "title": "Calendly",
+    "hex": "3664AE"
   },
   {
     "slug": "canva",
@@ -265,6 +420,21 @@
     "hex": "00C244"
   },
   {
+    "slug": "cerebras",
+    "title": "Cerebras",
+    "hex": "F15A29"
+  },
+  {
+    "slug": "chakraui",
+    "title": "Chakra UI",
+    "hex": "7BCBD4"
+  },
+  {
+    "slug": "chartjs",
+    "title": "Chart.js",
+    "hex": "36A2EB"
+  },
+  {
     "slug": "chase",
     "title": "Chase",
     "hex": "117ACA"
@@ -275,9 +445,24 @@
     "hex": "CD9834"
   },
   {
+    "slug": "chromium",
+    "title": "Chromium",
+    "hex": "1972E7"
+  },
+  {
+    "slug": "cisco",
+    "title": "Cisco",
+    "hex": "00BCEB"
+  },
+  {
     "slug": "claude",
     "title": "Claude",
     "hex": "D97757"
+  },
+  {
+    "slug": "clerk",
+    "title": "Clerk",
+    "hex": "6C47FF"
   },
   {
     "slug": "clickup",
@@ -290,9 +475,19 @@
     "hex": "F38020"
   },
   {
+    "slug": "cloudinary",
+    "title": "Cloudinary",
+    "hex": "3448C5"
+  },
+  {
     "slug": "cnn",
     "title": "CNN",
     "hex": "CC0000"
+  },
+  {
+    "slug": "cobol",
+    "title": "COBOL",
+    "hex": "005CA5"
   },
   {
     "slug": "cocacola",
@@ -310,6 +505,16 @@
     "hex": "151515"
   },
   {
+    "slug": "codex",
+    "title": "Codex",
+    "hex": "111111"
+  },
+  {
+    "slug": "cohere",
+    "title": "Cohere",
+    "hex": "39594D"
+  },
+  {
     "slug": "coinbase",
     "title": "Coinbase",
     "hex": "0052FF"
@@ -325,9 +530,19 @@
     "hex": "2478CC"
   },
   {
+    "slug": "convex",
+    "title": "Convex",
+    "hex": "F3B01C"
+  },
+  {
     "slug": "coursera",
     "title": "Coursera",
     "hex": "0056D2"
+  },
+  {
+    "slug": "cpanel",
+    "title": "cPanel",
+    "hex": "FF6C2C"
   },
   {
     "slug": "creativecommons",
@@ -345,14 +560,34 @@
     "hex": "663399"
   },
   {
+    "slug": "cursor",
+    "title": "Cursor",
+    "hex": "26251E"
+  },
+  {
     "slug": "cypress",
     "title": "Cypress",
     "hex": "69D3A7"
   },
   {
+    "slug": "d3js",
+    "title": "D3.js",
+    "hex": "F9A03C"
+  },
+  {
+    "slug": "dailydev",
+    "title": "daily.dev",
+    "hex": "151618"
+  },
+  {
     "slug": "dailymotion",
     "title": "Dailymotion",
     "hex": "0A0A0A"
+  },
+  {
+    "slug": "daisyui",
+    "title": "daisyUI",
+    "hex": "1AD1A5"
   },
   {
     "slug": "dart",
@@ -380,6 +615,11 @@
     "hex": "A81D33"
   },
   {
+    "slug": "deepseek",
+    "title": "DeepSeek",
+    "hex": "4D6BFE"
+  },
+  {
     "slug": "deliveroo",
     "title": "Deliveroo",
     "hex": "00CCBC"
@@ -400,9 +640,19 @@
     "hex": "70FFAF"
   },
   {
+    "slug": "devto",
+    "title": "dev.to",
+    "hex": "000000"
+  },
+  {
     "slug": "digitalocean",
     "title": "DigitalOcean",
     "hex": "0080FF"
+  },
+  {
+    "slug": "directus",
+    "title": "Directus",
+    "hex": "6644FF"
   },
   {
     "slug": "discord",
@@ -410,9 +660,29 @@
     "hex": "5865F2"
   },
   {
+    "slug": "discourse",
+    "title": "Discourse",
+    "hex": "FFF9AE"
+  },
+  {
+    "slug": "disneyplus",
+    "title": "Disney+",
+    "hex": "01147B"
+  },
+  {
+    "slug": "django",
+    "title": "Django",
+    "hex": "44B78B"
+  },
+  {
     "slug": "docker",
     "title": "Docker",
     "hex": "2496ED"
+  },
+  {
+    "slug": "docusaurus",
+    "title": "Docusaurus",
+    "hex": "3ECC5F"
   },
   {
     "slug": "dogecoin",
@@ -425,9 +695,19 @@
     "hex": "FF3008"
   },
   {
+    "slug": "dreamweaver",
+    "title": "Dreamweaver",
+    "hex": "FF61F6"
+  },
+  {
     "slug": "dribbble",
     "title": "Dribbble",
     "hex": "EA4C89"
+  },
+  {
+    "slug": "drizzleorm",
+    "title": "Drizzle ORM",
+    "hex": "121212"
   },
   {
     "slug": "dropbox",
@@ -438,6 +718,11 @@
     "slug": "drupal",
     "title": "Drupal",
     "hex": "0678BE"
+  },
+  {
+    "slug": "dub",
+    "title": "Dub",
+    "hex": "000000"
   },
   {
     "slug": "ducati",
@@ -465,6 +750,11 @@
     "hex": "E53238"
   },
   {
+    "slug": "eclipseide",
+    "title": "Eclipse IDE",
+    "hex": "473788"
+  },
+  {
     "slug": "edx",
     "title": "edX",
     "hex": "02262B"
@@ -480,6 +770,21 @@
     "hex": "47848F"
   },
   {
+    "slug": "elementor",
+    "title": "Elementor",
+    "hex": "92003B"
+  },
+  {
+    "slug": "emacs",
+    "title": "Emacs",
+    "hex": "8381C5"
+  },
+  {
+    "slug": "ember",
+    "title": "Ember",
+    "hex": "E24B31"
+  },
+  {
     "slug": "emirates",
     "title": "Emirates",
     "hex": "D71921"
@@ -488,6 +793,11 @@
     "slug": "epicgames",
     "title": "Epic Games",
     "hex": "313131"
+  },
+  {
+    "slug": "esbuild",
+    "title": "Esbuild",
+    "hex": "FFCF00"
   },
   {
     "slug": "eslint",
@@ -515,9 +825,24 @@
     "hex": "1C2024"
   },
   {
+    "slug": "expressjs",
+    "title": "Express.js",
+    "hex": "000000"
+  },
+  {
     "slug": "facebook",
     "title": "Facebook",
     "hex": "0866FF"
+  },
+  {
+    "slug": "fastapi",
+    "title": "FastAPI",
+    "hex": "009688"
+  },
+  {
+    "slug": "fastify",
+    "title": "Fastify",
+    "hex": "000000"
   },
   {
     "slug": "fedora",
@@ -555,9 +880,19 @@
     "hex": "FF7139"
   },
   {
+    "slug": "flask",
+    "title": "Flask",
+    "hex": "000000"
+  },
+  {
     "slug": "flutter",
     "title": "Flutter",
     "hex": "02569B"
+  },
+  {
+    "slug": "flyio",
+    "title": "Fly.io",
+    "hex": "BA7BF0"
   },
   {
     "slug": "ford",
@@ -570,6 +905,11 @@
     "hex": "000000"
   },
   {
+    "slug": "fortran",
+    "title": "Fortran",
+    "hex": "734F96"
+  },
+  {
     "slug": "framer",
     "title": "Framer",
     "hex": "0055FF"
@@ -580,9 +920,24 @@
     "hex": "AB2B28"
   },
   {
+    "slug": "fresh",
+    "title": "Fresh",
+    "hex": "FFDB1E"
+  },
+  {
+    "slug": "gatsby",
+    "title": "Gatsby",
+    "hex": "64328B"
+  },
+  {
     "slug": "ghost",
     "title": "Ghost",
     "hex": "15171A"
+  },
+  {
+    "slug": "ghostty",
+    "title": "Ghostty",
+    "hex": "3551F3"
   },
   {
     "slug": "gimp",
@@ -603,6 +958,11 @@
     "slug": "githubactions",
     "title": "GitHub Actions",
     "hex": "2088FF"
+  },
+  {
+    "slug": "githubcopilot",
+    "title": "GitHub Copilot",
+    "hex": "000000"
   },
   {
     "slug": "gitlab",
@@ -630,6 +990,11 @@
     "hex": "00ADD8"
   },
   {
+    "slug": "godaddy",
+    "title": "GoDaddy",
+    "hex": "000000"
+  },
+  {
     "slug": "godotengine",
     "title": "Godot Engine",
     "hex": "478CBF"
@@ -640,14 +1005,39 @@
     "hex": "4285F4"
   },
   {
+    "slug": "googleanalytics",
+    "title": "Google Analytics",
+    "hex": "F9AB00"
+  },
+  {
     "slug": "googlecalendar",
     "title": "Google Calendar",
     "hex": "4285F4"
   },
   {
+    "slug": "googlechat",
+    "title": "Google Chat",
+    "hex": "00AC47"
+  },
+  {
     "slug": "googlechrome",
     "title": "Google Chrome",
     "hex": "4285F4"
+  },
+  {
+    "slug": "googleclassroom",
+    "title": "Google Classroom",
+    "hex": "0F9D58"
+  },
+  {
+    "slug": "googlecloud",
+    "title": "Google Cloud",
+    "hex": "EA4335"
+  },
+  {
+    "slug": "googlecolab",
+    "title": "Google Colab",
+    "hex": "E8710A"
   },
   {
     "slug": "googledocs",
@@ -665,9 +1055,19 @@
     "hex": "8E75B2"
   },
   {
+    "slug": "googlemaps",
+    "title": "Google Maps",
+    "hex": "1A73E8"
+  },
+  {
     "slug": "googlemeet",
     "title": "Google Meet",
     "hex": "00897B"
+  },
+  {
+    "slug": "googleplay",
+    "title": "Google Play",
+    "hex": "EA4335"
   },
   {
     "slug": "googlesheets",
@@ -680,6 +1080,11 @@
     "hex": "FBBC04"
   },
   {
+    "slug": "gradio",
+    "title": "Gradio",
+    "hex": "F9D100"
+  },
+  {
     "slug": "grafana",
     "title": "Grafana",
     "hex": "F46800"
@@ -690,9 +1095,44 @@
     "hex": "E10098"
   },
   {
+    "slug": "grok",
+    "title": "Grok",
+    "hex": "0A0A0A"
+  },
+  {
+    "slug": "groq",
+    "title": "Groq",
+    "hex": "F54F35"
+  },
+  {
+    "slug": "hackthebox",
+    "title": "Hack The Box",
+    "hex": "9FEF00"
+  },
+  {
+    "slug": "hashnode",
+    "title": "Hashnode",
+    "hex": "2563EB"
+  },
+  {
+    "slug": "haskell",
+    "title": "Haskell",
+    "hex": "453A62"
+  },
+  {
     "slug": "hbomax",
     "title": "HBO Max",
     "hex": "000000"
+  },
+  {
+    "slug": "hcaptcha",
+    "title": "hCaptcha",
+    "hex": "00D4BF"
+  },
+  {
+    "slug": "headlessui",
+    "title": "Headless UI",
+    "hex": "66E3FF"
   },
   {
     "slug": "heroku",
@@ -700,9 +1140,34 @@
     "hex": "430098"
   },
   {
+    "slug": "homeassistant",
+    "title": "Home Assistant",
+    "hex": "F2F4F9"
+  },
+  {
+    "slug": "homebrew",
+    "title": "Homebrew",
+    "hex": "D1D2D3"
+  },
+  {
     "slug": "honda",
     "title": "Honda",
     "hex": "E40521"
+  },
+  {
+    "slug": "hono",
+    "title": "Hono",
+    "hex": "FF5B11"
+  },
+  {
+    "slug": "hoppscotch",
+    "title": "Hoppscotch",
+    "hex": "00B381"
+  },
+  {
+    "slug": "hostgator",
+    "title": "Hostgator",
+    "hex": "2E93EE"
   },
   {
     "slug": "hotmart",
@@ -740,9 +1205,24 @@
     "hex": "FFD21E"
   },
   {
+    "slug": "hugo",
+    "title": "Hugo",
+    "hex": "EBB951"
+  },
+  {
+    "slug": "hulu",
+    "title": "Hulu",
+    "hex": "1CE783"
+  },
+  {
     "slug": "hyundai",
     "title": "Hyundai",
     "hex": "002C5E"
+  },
+  {
+    "slug": "ibm",
+    "title": "IBM",
+    "hex": "1F70C1"
   },
   {
     "slug": "ifood",
@@ -758,6 +1238,16 @@
     "slug": "ikea",
     "title": "IKEA",
     "hex": "0058A3"
+  },
+  {
+    "slug": "illustrator",
+    "title": "Illustrator",
+    "hex": "330000"
+  },
+  {
+    "slug": "indesign",
+    "title": "InDesign",
+    "hex": "49021F"
   },
   {
     "slug": "inkscape",
@@ -800,6 +1290,16 @@
     "hex": "FA5C5C"
   },
   {
+    "slug": "jasmine",
+    "title": "Jasmine",
+    "hex": "8A4182"
+  },
+  {
+    "slug": "java",
+    "title": "Java",
+    "hex": "5382A1"
+  },
+  {
     "slug": "javascript",
     "title": "JavaScript",
     "hex": "F7DF1E"
@@ -820,6 +1320,11 @@
     "hex": "C21325"
   },
   {
+    "slug": "jetbrains",
+    "title": "JetBrains",
+    "hex": "FE2857"
+  },
+  {
     "slug": "jira",
     "title": "Jira",
     "hex": "0052CC"
@@ -828,6 +1333,21 @@
     "slug": "joomla",
     "title": "Joomla",
     "hex": "5091CD"
+  },
+  {
+    "slug": "jquery",
+    "title": "jQuery",
+    "hex": "131B28"
+  },
+  {
+    "slug": "json",
+    "title": "JSON",
+    "hex": "FFFFFF"
+  },
+  {
+    "slug": "julia",
+    "title": "Julia",
+    "hex": "CB3C33"
   },
   {
     "slug": "jupyter",
@@ -850,6 +1370,11 @@
     "hex": "527EB2"
   },
   {
+    "slug": "keycloak",
+    "title": "Keycloak",
+    "hex": "4D4D4D"
+  },
+  {
     "slug": "kfc",
     "title": "KFC",
     "hex": "F40027"
@@ -863,6 +1388,16 @@
     "slug": "kia",
     "title": "Kia",
     "hex": "05141F"
+  },
+  {
+    "slug": "kick",
+    "title": "Kick",
+    "hex": "53FC18"
+  },
+  {
+    "slug": "kimi",
+    "title": "Kimi",
+    "hex": "027AFF"
   },
   {
     "slug": "klarna",
@@ -890,6 +1425,16 @@
     "hex": "B6A272"
   },
   {
+    "slug": "langchain",
+    "title": "LangChain",
+    "hex": "7FC8FF"
+  },
+  {
+    "slug": "laravel",
+    "title": "Laravel",
+    "hex": "FF2D20"
+  },
+  {
     "slug": "lastpass",
     "title": "LastPass",
     "hex": "D32D27"
@@ -898,6 +1443,11 @@
     "slug": "leagueoflegends",
     "title": "League of Legends",
     "hex": "C28F2C"
+  },
+  {
+    "slug": "lemonsqueezy",
+    "title": "Lemon Squeezy",
+    "hex": "FFC233"
   },
   {
     "slug": "lenovo",
@@ -920,6 +1470,11 @@
     "hex": "0050AA"
   },
   {
+    "slug": "lightroom",
+    "title": "Lightroom",
+    "hex": "001E36"
+  },
+  {
     "slug": "line",
     "title": "LINE",
     "hex": "00C300"
@@ -928,6 +1483,11 @@
     "slug": "linear",
     "title": "Linear",
     "hex": "5E6AD2"
+  },
+  {
+    "slug": "linkedin",
+    "title": "LinkedIn",
+    "hex": "0A66C2"
   },
   {
     "slug": "linux",
@@ -940,6 +1500,11 @@
     "hex": "003778"
   },
   {
+    "slug": "lit",
+    "title": "Lit",
+    "hex": "00E8FF"
+  },
+  {
     "slug": "litecoin",
     "title": "Litecoin",
     "hex": "A6A9AA"
@@ -948,6 +1513,26 @@
     "slug": "looker",
     "title": "Looker",
     "hex": "4285F4"
+  },
+  {
+    "slug": "loom",
+    "title": "Loom",
+    "hex": "625DF5"
+  },
+  {
+    "slug": "lottiefiles",
+    "title": "LottieFiles",
+    "hex": "00DDB3"
+  },
+  {
+    "slug": "lovable",
+    "title": "Lovable",
+    "hex": "4B73FF"
+  },
+  {
+    "slug": "lua",
+    "title": "Lua",
+    "hex": "000080"
   },
   {
     "slug": "lufthansa",
@@ -965,6 +1550,26 @@
     "hex": "FFE01B"
   },
   {
+    "slug": "mantine",
+    "title": "Mantine",
+    "hex": "339AF0"
+  },
+  {
+    "slug": "manus",
+    "title": "Manus",
+    "hex": "34322D"
+  },
+  {
+    "slug": "mariadb",
+    "title": "MariaDB",
+    "hex": "002B64"
+  },
+  {
+    "slug": "markdown",
+    "title": "Markdown",
+    "hex": "000000"
+  },
+  {
     "slug": "mastercard",
     "title": "MasterCard",
     "hex": "EB001B"
@@ -973,6 +1578,26 @@
     "slug": "mastodon",
     "title": "Mastodon",
     "hex": "6364FF"
+  },
+  {
+    "slug": "materialui",
+    "title": "Material UI",
+    "hex": "007FFF"
+  },
+  {
+    "slug": "matlab",
+    "title": "MATLAB",
+    "hex": "4ADDDF"
+  },
+  {
+    "slug": "matrix",
+    "title": "Matrix",
+    "hex": "000000"
+  },
+  {
+    "slug": "mattermost",
+    "title": "Mattermost",
+    "hex": "000000"
   },
   {
     "slug": "mazda",
@@ -990,9 +1615,19 @@
     "hex": "FF0000"
   },
   {
+    "slug": "mediawiki",
+    "title": "MediaWiki",
+    "hex": "0A00B2"
+  },
+  {
     "slug": "medium",
     "title": "Medium",
     "hex": "000000"
+  },
+  {
+    "slug": "medusa",
+    "title": "Medusa",
+    "hex": "592EE1"
   },
   {
     "slug": "mercadolivre",
@@ -1005,6 +1640,11 @@
     "hex": "00B1EA"
   },
   {
+    "slug": "mermaid",
+    "title": "Mermaid",
+    "hex": "121212"
+  },
+  {
     "slug": "messenger",
     "title": "Messenger",
     "hex": "0866FF"
@@ -1013,6 +1653,86 @@
     "slug": "meta",
     "title": "Meta",
     "hex": "0467DF"
+  },
+  {
+    "slug": "metamask",
+    "title": "MetaMask",
+    "hex": "E4761B"
+  },
+  {
+    "slug": "microsoft",
+    "title": "Microsoft",
+    "hex": "F1511B"
+  },
+  {
+    "slug": "microsoftazure",
+    "title": "Microsoft Azure",
+    "hex": "114A8B"
+  },
+  {
+    "slug": "microsoftcopilot",
+    "title": "Microsoft Copilot",
+    "hex": "00AEFF"
+  },
+  {
+    "slug": "microsoftdefender",
+    "title": "Microsoft Defender",
+    "hex": "003375"
+  },
+  {
+    "slug": "microsoftedge",
+    "title": "Microsoft Edge",
+    "hex": "35C1F1"
+  },
+  {
+    "slug": "microsoftexcel",
+    "title": "Microsoft Excel",
+    "hex": "379539"
+  },
+  {
+    "slug": "microsoftoffice",
+    "title": "Microsoft Office",
+    "hex": "F32B44"
+  },
+  {
+    "slug": "microsoftonedrive",
+    "title": "Microsoft OneDrive",
+    "hex": "4894FE"
+  },
+  {
+    "slug": "microsoftonenote",
+    "title": "Microsoft OneNote",
+    "hex": "A931D8"
+  },
+  {
+    "slug": "microsoftpowerpoint",
+    "title": "Microsoft PowerPoint",
+    "hex": "AA1D2D"
+  },
+  {
+    "slug": "microsoftsharepoint",
+    "title": "Microsoft SharePoint",
+    "hex": "003B5D"
+  },
+  {
+    "slug": "microsoftsqlserver",
+    "title": "Microsoft SQL Server",
+    "hex": "CFD8DC"
+  },
+  {
+    "slug": "microsoftteams",
+    "title": "Microsoft Teams",
+    "hex": "A98AFF"
+  },
+  {
+    "slug": "microsoftword",
+    "title": "Microsoft Word",
+    "hex": "1657F4"
+  },
+  {
+    "slug": "midjourney",
+    "title": "Midjourney",
+    "hex": "000000"
   },
   {
     "slug": "miro",
@@ -1025,6 +1745,11 @@
     "hex": "FA520F"
   },
   {
+    "slug": "modelcontextprotocol",
+    "title": "Model Context Protocol",
+    "hex": "000000"
+  },
+  {
     "slug": "monero",
     "title": "Monero",
     "hex": "FF6600"
@@ -1035,9 +1760,19 @@
     "hex": "47A248"
   },
   {
+    "slug": "monkeytype",
+    "title": "Monkeytype",
+    "hex": "000000"
+  },
+  {
     "slug": "monster",
     "title": "Monster",
     "hex": "6D4C9F"
+  },
+  {
+    "slug": "motion",
+    "title": "Motion",
+    "hex": "0F1115"
   },
   {
     "slug": "mozilla",
@@ -1060,9 +1795,19 @@
     "hex": "E03C31"
   },
   {
+    "slug": "neon",
+    "title": "Neon",
+    "hex": "37C38F"
+  },
+  {
     "slug": "neovim",
     "title": "Neovim",
     "hex": "57A143"
+  },
+  {
+    "slug": "nestjs",
+    "title": "NestJS",
+    "hex": "E0234E"
   },
   {
     "slug": "netflix",
@@ -1083,6 +1828,16 @@
     "slug": "nextdotjs",
     "title": "Next.js",
     "hex": "000000"
+  },
+  {
+    "slug": "nginx",
+    "title": "Nginx",
+    "hex": "019639"
+  },
+  {
+    "slug": "ngrok",
+    "title": "Ngrok",
+    "hex": "10239E"
   },
   {
     "slug": "nike",
@@ -1120,6 +1875,11 @@
     "hex": "820AD1"
   },
   {
+    "slug": "nuget",
+    "title": "Nuget",
+    "hex": "004880"
+  },
+  {
     "slug": "numpy",
     "title": "NumPy",
     "hex": "013243"
@@ -1133,6 +1893,11 @@
     "slug": "nvidia",
     "title": "NVIDIA",
     "hex": "76B900"
+  },
+  {
+    "slug": "nx",
+    "title": "Nx",
+    "hex": "000000"
   },
   {
     "slug": "obsstudio",
@@ -1160,6 +1925,16 @@
     "hex": "412991"
   },
   {
+    "slug": "openrouter",
+    "title": "OpenRouter",
+    "hex": "111111"
+  },
+  {
+    "slug": "opensea",
+    "title": "OpenSea",
+    "hex": "0086FF"
+  },
+  {
     "slug": "openvpn",
     "title": "OpenVPN",
     "hex": "EA7E20"
@@ -1185,9 +1960,29 @@
     "hex": "150458"
   },
   {
+    "slug": "parcel",
+    "title": "Parcel",
+    "hex": "C37A44"
+  },
+  {
+    "slug": "patreon",
+    "title": "Patreon",
+    "hex": "000000"
+  },
+  {
+    "slug": "payloadcms",
+    "title": "Payload CMS",
+    "hex": "2F2F2F"
+  },
+  {
     "slug": "paypal",
     "title": "PayPal",
     "hex": "002991"
+  },
+  {
+    "slug": "penpot",
+    "title": "Penpot",
+    "hex": "000000"
   },
   {
     "slug": "perplexity",
@@ -1200,6 +1995,16 @@
     "hex": "000000"
   },
   {
+    "slug": "photopea",
+    "title": "Photopea",
+    "hex": "18A497"
+  },
+  {
+    "slug": "photoshop",
+    "title": "Photoshop",
+    "hex": "001E36"
+  },
+  {
     "slug": "php",
     "title": "PHP",
     "hex": "777BB4"
@@ -1210,9 +2015,34 @@
     "hex": "21C25E"
   },
   {
+    "slug": "pinia",
+    "title": "Pinia",
+    "hex": "52CE63"
+  },
+  {
     "slug": "pinterest",
     "title": "Pinterest",
     "hex": "BD081C"
+  },
+  {
+    "slug": "pitch",
+    "title": "Pitch",
+    "hex": "6B53FF"
+  },
+  {
+    "slug": "planetscale",
+    "title": "PlanetScale",
+    "hex": "000000"
+  },
+  {
+    "slug": "platzi",
+    "title": "Platzi",
+    "hex": "98CA3F"
+  },
+  {
+    "slug": "plausibleanalytics",
+    "title": "Plausible Analytics",
+    "hex": "909CF7"
   },
   {
     "slug": "playstation",
@@ -1220,9 +2050,24 @@
     "hex": "0070D1"
   },
   {
+    "slug": "playwright",
+    "title": "Playwright",
+    "hex": "2D4552"
+  },
+  {
     "slug": "pnpm",
     "title": "pnpm",
     "hex": "F69220"
+  },
+  {
+    "slug": "pocketbase",
+    "title": "Pocketbase",
+    "hex": "16161A"
+  },
+  {
+    "slug": "polygon",
+    "title": "Polygon",
+    "hex": "8247E5"
   },
   {
     "slug": "porsche",
@@ -1230,9 +2075,19 @@
     "hex": "B12B28"
   },
   {
+    "slug": "postcss",
+    "title": "PostCSS",
+    "hex": "DD3735"
+  },
+  {
     "slug": "postgresql",
     "title": "PostgreSQL",
     "hex": "4169E1"
+  },
+  {
+    "slug": "posthog",
+    "title": "PostHog",
+    "hex": "1D4AFF"
   },
   {
     "slug": "postman",
@@ -1240,14 +2095,44 @@
     "hex": "FF6C37"
   },
   {
+    "slug": "powershell",
+    "title": "PowerShell",
+    "hex": "A9C8FF"
+  },
+  {
+    "slug": "powertoys",
+    "title": "PowerToys",
+    "hex": "D7CCB3"
+  },
+  {
+    "slug": "preact",
+    "title": "Preact",
+    "hex": "673AB8"
+  },
+  {
+    "slug": "premiere",
+    "title": "Premiere",
+    "hex": "00005B"
+  },
+  {
     "slug": "prettier",
     "title": "Prettier",
     "hex": "F7B93E"
   },
   {
+    "slug": "primevideo",
+    "title": "Prime Video",
+    "hex": "D1EFFA"
+  },
+  {
     "slug": "prisma",
     "title": "Prisma",
     "hex": "2D3748"
+  },
+  {
+    "slug": "producthunt",
+    "title": "Product Hunt",
+    "hex": "FF6154"
   },
   {
     "slug": "prometheus",
@@ -1263,6 +2148,11 @@
     "slug": "protonvpn",
     "title": "Proton VPN",
     "hex": "66DEB1"
+  },
+  {
+    "slug": "pulumi",
+    "title": "Pulumi",
+    "hex": "F26E7E"
   },
   {
     "slug": "puma",
@@ -1290,9 +2180,44 @@
     "hex": "2F67BA"
   },
   {
+    "slug": "qdrant",
+    "title": "Qdrant",
+    "hex": "DC244C"
+  },
+  {
+    "slug": "qt",
+    "title": "Qt",
+    "hex": "00CC00"
+  },
+  {
     "slug": "quora",
     "title": "Quora",
     "hex": "B92B27"
+  },
+  {
+    "slug": "qwen",
+    "title": "Qwen",
+    "hex": "000000"
+  },
+  {
+    "slug": "qwik",
+    "title": "Qwik",
+    "hex": "4340C4"
+  },
+  {
+    "slug": "r",
+    "title": "R",
+    "hex": "000000"
+  },
+  {
+    "slug": "radixui",
+    "title": "Radix UI",
+    "hex": "121212"
+  },
+  {
+    "slug": "railway",
+    "title": "Railway",
+    "hex": "000000"
   },
   {
     "slug": "raspberrypi",
@@ -1300,9 +2225,24 @@
     "hex": "A22846"
   },
   {
+    "slug": "raycast",
+    "title": "Raycast",
+    "hex": "FF6363"
+  },
+  {
     "slug": "react",
     "title": "React",
     "hex": "61DAFB"
+  },
+  {
+    "slug": "reactquery",
+    "title": "React Query",
+    "hex": "00435B"
+  },
+  {
+    "slug": "reactrouter",
+    "title": "React Router",
+    "hex": "F44250"
   },
   {
     "slug": "redbull",
@@ -1320,6 +2260,16 @@
     "hex": "FF4438"
   },
   {
+    "slug": "redux",
+    "title": "Redux",
+    "hex": "764ABC"
+  },
+  {
+    "slug": "redwoodjs",
+    "title": "RedwoodJS",
+    "hex": "BF4722"
+  },
+  {
     "slug": "reebok",
     "title": "Reebok",
     "hex": "E41D1B"
@@ -1330,14 +2280,34 @@
     "hex": "000000"
   },
   {
+    "slug": "remotion",
+    "title": "Remotion",
+    "hex": "0B84F3"
+  },
+  {
     "slug": "renault",
     "title": "Renault",
     "hex": "FFCC33"
   },
   {
+    "slug": "render",
+    "title": "Render",
+    "hex": "000000"
+  },
+  {
+    "slug": "replicate",
+    "title": "Replicate",
+    "hex": "000000"
+  },
+  {
     "slug": "replit",
     "title": "Replit",
     "hex": "F26207"
+  },
+  {
+    "slug": "resend",
+    "title": "Resend",
+    "hex": "000000"
   },
   {
     "slug": "revolut",
@@ -1370,14 +2340,29 @@
     "hex": "281432"
   },
   {
+    "slug": "rspack",
+    "title": "Rspack",
+    "hex": "AB7F45"
+  },
+  {
     "slug": "ruby",
     "title": "Ruby",
     "hex": "CC342D"
   },
   {
+    "slug": "runway",
+    "title": "Runway",
+    "hex": "FEFEFE"
+  },
+  {
     "slug": "rust",
     "title": "Rust",
     "hex": "000000"
+  },
+  {
+    "slug": "rxjs",
+    "title": "RxJS",
+    "hex": "E01D84"
   },
   {
     "slug": "ryanair",
@@ -1415,6 +2400,11 @@
     "hex": "CC6699"
   },
   {
+    "slug": "scala",
+    "title": "Scala",
+    "hex": "4F4F4F"
+  },
+  {
     "slug": "scikitlearn",
     "title": "scikit-learn",
     "hex": "F7931E"
@@ -1428,6 +2418,16 @@
     "slug": "sentry",
     "title": "Sentry",
     "hex": "362D59"
+  },
+  {
+    "slug": "sequelize",
+    "title": "Sequelize",
+    "hex": "2F406A"
+  },
+  {
+    "slug": "shadcnui",
+    "title": "shadcn/ui",
+    "hex": "000000"
   },
   {
     "slug": "shazam",
@@ -1450,6 +2450,11 @@
     "hex": "F7B500"
   },
   {
+    "slug": "skype",
+    "title": "Skype",
+    "hex": "00B7F0"
+  },
+  {
     "slug": "slack",
     "title": "Slack",
     "hex": "4A154B"
@@ -1465,9 +2470,24 @@
     "hex": "29B5E8"
   },
   {
+    "slug": "socketio",
+    "title": "Socket.IO",
+    "hex": "010101"
+  },
+  {
     "slug": "solana",
     "title": "Solana",
     "hex": "9945FF"
+  },
+  {
+    "slug": "solidity",
+    "title": "Solidity",
+    "hex": "000000"
+  },
+  {
+    "slug": "solidjs",
+    "title": "SolidJS",
+    "hex": "76B3E1"
   },
   {
     "slug": "sony",
@@ -1480,6 +2500,11 @@
     "hex": "FF5500"
   },
   {
+    "slug": "sourcegraph",
+    "title": "Sourcegraph",
+    "hex": "F96316"
+  },
+  {
     "slug": "spacex",
     "title": "SpaceX",
     "hex": "000000"
@@ -1490,6 +2515,11 @@
     "hex": "1ED760"
   },
   {
+    "slug": "spring",
+    "title": "Spring",
+    "hex": "68BD45"
+  },
+  {
     "slug": "sqlite",
     "title": "SQLite",
     "hex": "003B57"
@@ -1498,6 +2528,11 @@
     "slug": "square",
     "title": "Square",
     "hex": "3E4348"
+  },
+  {
+    "slug": "stabilityai",
+    "title": "Stability AI",
+    "hex": "9D39FF"
   },
   {
     "slug": "stackoverflow",
@@ -1520,6 +2555,11 @@
     "hex": "000000"
   },
   {
+    "slug": "storyblok",
+    "title": "Storyblok",
+    "hex": "0AB3AF"
+  },
+  {
     "slug": "storybook",
     "title": "Storybook",
     "hex": "FF4785"
@@ -1533,6 +2573,11 @@
     "slug": "stripe",
     "title": "Stripe",
     "hex": "635BFF"
+  },
+  {
+    "slug": "styledcomponents",
+    "title": "Styled Components",
+    "hex": "4A4A4A"
   },
   {
     "slug": "subaru",
@@ -1550,9 +2595,19 @@
     "hex": "FF6719"
   },
   {
+    "slug": "suno",
+    "title": "Suno",
+    "hex": "000000"
+  },
+  {
     "slug": "supabase",
     "title": "Supabase",
     "hex": "3FCF8E"
+  },
+  {
+    "slug": "surrealdb",
+    "title": "SurrealDB",
+    "hex": "FF00A0"
   },
   {
     "slug": "suzuki",
@@ -1565,14 +2620,29 @@
     "hex": "FF3E00"
   },
   {
+    "slug": "svgl",
+    "title": "svgl",
+    "hex": "FFFFFF"
+  },
+  {
     "slug": "swagger",
     "title": "Swagger",
     "hex": "85EA2D"
   },
   {
+    "slug": "swc",
+    "title": "SWC",
+    "hex": "FFA588"
+  },
+  {
     "slug": "swift",
     "title": "Swift",
     "hex": "F05138"
+  },
+  {
+    "slug": "swr",
+    "title": "SWR",
+    "hex": "000000"
   },
   {
     "slug": "tailscale",
@@ -1585,9 +2655,19 @@
     "hex": "06B6D4"
   },
   {
+    "slug": "tanstack",
+    "title": "TanStack",
+    "hex": "6BDAFF"
+  },
+  {
     "slug": "target",
     "title": "Target",
     "hex": "CC0000"
+  },
+  {
+    "slug": "tauri",
+    "title": "Tauri",
+    "hex": "FFC131"
   },
   {
     "slug": "ted",
@@ -1615,6 +2695,11 @@
     "hex": "CC0000"
   },
   {
+    "slug": "tether",
+    "title": "Tether",
+    "hex": "50AF95"
+  },
+  {
     "slug": "theguardian",
     "title": "The Guardian",
     "hex": "052962"
@@ -1622,6 +2707,11 @@
   {
     "slug": "threads",
     "title": "Threads",
+    "hex": "000000"
+  },
+  {
+    "slug": "threejs",
+    "title": "Three.js",
     "hex": "000000"
   },
   {
@@ -1638,6 +2728,21 @@
     "slug": "tiktok",
     "title": "TikTok",
     "hex": "000000"
+  },
+  {
+    "slug": "todoist",
+    "title": "Todoist",
+    "hex": "000000"
+  },
+  {
+    "slug": "togetherai",
+    "title": "Together AI",
+    "hex": "13171B"
+  },
+  {
+    "slug": "ton",
+    "title": "TON",
+    "hex": "0098EA"
   },
   {
     "slug": "torproject",
@@ -1675,9 +2780,44 @@
     "hex": "E32851"
   },
   {
+    "slug": "tron",
+    "title": "TRON",
+    "hex": "FF060A"
+  },
+  {
+    "slug": "trpc",
+    "title": "tRPC",
+    "hex": "398CCB"
+  },
+  {
+    "slug": "trustwallet",
+    "title": "Trust Wallet",
+    "hex": "0500FF"
+  },
+  {
+    "slug": "trustpilot",
+    "title": "TrustPilot",
+    "hex": "00B67A"
+  },
+  {
     "slug": "tumblr",
     "title": "Tumblr",
     "hex": "36465D"
+  },
+  {
+    "slug": "turbopack",
+    "title": "Turbopack",
+    "hex": "0096FF"
+  },
+  {
+    "slug": "turborepo",
+    "title": "Turborepo",
+    "hex": "0096FF"
+  },
+  {
+    "slug": "turso",
+    "title": "Turso",
+    "hex": "183134"
   },
   {
     "slug": "twilio",
@@ -1688,6 +2828,11 @@
     "slug": "twitch",
     "title": "Twitch",
     "hex": "9146FF"
+  },
+  {
+    "slug": "typeorm",
+    "title": "TypeORM",
+    "hex": "8E8F8F"
   },
   {
     "slug": "typescript",
@@ -1713,6 +2858,11 @@
     "slug": "ubuntu",
     "title": "Ubuntu",
     "hex": "E95420"
+  },
+  {
+    "slug": "udacity",
+    "title": "Udacity",
+    "hex": "02B3E4"
   },
   {
     "slug": "udemy",
@@ -1745,9 +2895,29 @@
     "hex": "FFFFFF"
   },
   {
+    "slug": "unocss",
+    "title": "UnoCSS",
+    "hex": "858585"
+  },
+  {
     "slug": "unrealengine",
     "title": "Unreal Engine",
     "hex": "0E1128"
+  },
+  {
+    "slug": "upstash",
+    "title": "Upstash",
+    "hex": "00C98D"
+  },
+  {
+    "slug": "uv",
+    "title": "UV",
+    "hex": "DE5FE9"
+  },
+  {
+    "slug": "v0",
+    "title": "v0",
+    "hex": "000000"
   },
   {
     "slug": "valorant",
@@ -1780,6 +2950,16 @@
     "hex": "1A1F71"
   },
   {
+    "slug": "visualstudio",
+    "title": "Visual Studio",
+    "hex": "5E438F"
+  },
+  {
+    "slug": "visualstudiocode",
+    "title": "Visual Studio Code",
+    "hex": "0065A9"
+  },
+  {
     "slug": "vite",
     "title": "Vite",
     "hex": "646CFF"
@@ -1788,6 +2968,16 @@
     "slug": "vitest",
     "title": "Vitest",
     "hex": "6E9F18"
+  },
+  {
+    "slug": "vivaldi",
+    "title": "Vivaldi",
+    "hex": "EF3939"
+  },
+  {
+    "slug": "vk",
+    "title": "VK",
+    "hex": "FFFFFF"
   },
   {
     "slug": "vlcmediaplayer",
@@ -1815,9 +3005,39 @@
     "hex": "4FC08D"
   },
   {
+    "slug": "vuetify",
+    "title": "Vuetify",
+    "hex": "AEDDFF"
+  },
+  {
+    "slug": "vueuse",
+    "title": "VueUse",
+    "hex": "35495E"
+  },
+  {
+    "slug": "wakatime",
+    "title": "WakaTime",
+    "hex": "000000"
+  },
+  {
     "slug": "walmart",
     "title": "Walmart",
     "hex": "0071CE"
+  },
+  {
+    "slug": "warp",
+    "title": "Warp",
+    "hex": "000000"
+  },
+  {
+    "slug": "webflow",
+    "title": "Webflow",
+    "hex": "146EF5"
+  },
+  {
+    "slug": "webkit",
+    "title": "WebKit",
+    "hex": "34AADC"
   },
   {
     "slug": "webpack",
@@ -1855,6 +3075,16 @@
     "hex": "000000"
   },
   {
+    "slug": "windows",
+    "title": "Windows",
+    "hex": "00ADEF"
+  },
+  {
+    "slug": "windsurf",
+    "title": "Windsurf",
+    "hex": "0B100F"
+  },
+  {
     "slug": "wireguard",
     "title": "WireGuard",
     "hex": "88171A"
@@ -1870,14 +3100,39 @@
     "hex": "21759B"
   },
   {
+    "slug": "workos",
+    "title": "WorkOS",
+    "hex": "6363F1"
+  },
+  {
     "slug": "x",
     "title": "X",
     "hex": "000000"
   },
   {
+    "slug": "xai",
+    "title": "xAI",
+    "hex": "000000"
+  },
+  {
+    "slug": "xbox",
+    "title": "Xbox",
+    "hex": "107C10"
+  },
+  {
+    "slug": "xd",
+    "title": "XD",
+    "hex": "470137"
+  },
+  {
     "slug": "xiaomi",
     "title": "Xiaomi",
     "hex": "FF6900"
+  },
+  {
+    "slug": "xrp",
+    "title": "XRP",
+    "hex": "23292F"
   },
   {
     "slug": "yamahamotorcorporation",
@@ -1893,6 +3148,11 @@
     "slug": "youtube",
     "title": "YouTube",
     "hex": "FF0000"
+  },
+  {
+    "slug": "youtubemusic",
+    "title": "YouTube Music",
+    "hex": "FFFFFF"
   },
   {
     "slug": "yubico",
@@ -1915,6 +3175,11 @@
     "hex": "084CCF"
   },
   {
+    "slug": "zenbrowser",
+    "title": "Zen Browser",
+    "hex": "202020"
+  },
+  {
     "slug": "zendesk",
     "title": "Zendesk",
     "hex": "03363D"
@@ -1923,6 +3188,16 @@
     "slug": "zenodo",
     "title": "Zenodo",
     "hex": "1682D4"
+  },
+  {
+    "slug": "zig",
+    "title": "Zig",
+    "hex": "F7A41D"
+  },
+  {
+    "slug": "zod",
+    "title": "Zod",
+    "hex": "18253F"
   },
   {
     "slug": "zoom",
