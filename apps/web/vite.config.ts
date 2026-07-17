@@ -4,12 +4,8 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   build: {
-    rollupOptions: {
-      output: {
-        manualChunks: {
-          logos: ['@easy-logo/logos'],
-        },
-      },
-    },
+    // Catalog SVGs must stay as individual on-demand assets — never inlined
+    // as data URIs in the bundle.
+    assetsInlineLimit: 0,
   },
 });

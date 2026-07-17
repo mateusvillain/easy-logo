@@ -11,7 +11,7 @@ export function App() {
   const cards = useMemo(
     () =>
       searchLogos(deferredQuery).flatMap((logo) => {
-        const variants: Variant[] = logo.wordmarkSvg ? ['symbol', 'wordmark'] : ['symbol'];
+        const variants: Variant[] = logo.hasWordmark ? ['symbol', 'wordmark'] : ['symbol'];
         return variants.map((variant) => ({ logo, variant }));
       }),
     [deferredQuery],

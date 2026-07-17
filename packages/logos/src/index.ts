@@ -1,4 +1,4 @@
-import logosData from './logos.json';
+import indexData from './index.json';
 
 export interface Logo {
   /** Brand display name, e.g. "GitHub" */
@@ -7,14 +7,17 @@ export interface Logo {
   slug: string;
   /** Brand color as a hex string without "#", e.g. "181717" */
   hex: string;
-  /** Brand symbol as standalone SVG markup (24x24 viewBox) */
-  svg: string;
-  /** Full logotype (wordmark) as standalone SVG markup, when available */
-  wordmarkSvg?: string;
+  /** Whether svgs/<slug>-wordmark.svg exists for this brand */
+  hasWordmark: boolean;
 }
 
-export const logos: Logo[] = logosData;
+export const logos: Logo[] = indexData;
 
+/**
+ * SVG markup is not bundled with the index. Apps load the files in
+ * packages/logos/svgs/ on demand: `<slug>.svg` for the symbol and
+ * `<slug>-wordmark.svg` for the full logotype.
+ */
 export function searchLogos(query: string): Logo[] {
   const normalized = query.trim().toLowerCase();
   if (normalized === '') return logos;

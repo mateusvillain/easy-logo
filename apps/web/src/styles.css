@@ -149,9 +149,10 @@ body {
   justify-content: center;
 }
 
-.card-preview svg {
+.card-preview img {
   width: 100%;
   height: 100%;
+  object-fit: contain;
 }
 
 .card-preview-wordmark {

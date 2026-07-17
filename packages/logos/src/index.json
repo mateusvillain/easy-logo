@@ -1,0 +1,4688 @@
+[
+  {
+    "title": ".NET",
+    "slug": "dotnet",
+    "hex": "512BD4",
+    "hasWordmark": false
+  },
+  {
+    "title": "1Password",
+    "slug": "1password",
+    "hex": "1A285F",
+    "hasWordmark": true
+  },
+  {
+    "title": "7Zip",
+    "slug": "7zip",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "AbacatePay",
+    "slug": "abacatepay",
+    "hex": "244C4E",
+    "hasWordmark": true
+  },
+  {
+    "title": "Acrobat Reader",
+    "slug": "acrobatreader",
+    "hex": "B30B00",
+    "hasWordmark": false
+  },
+  {
+    "title": "ActiveCampaign",
+    "slug": "activecampaign",
+    "hex": "004CFF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Adalo",
+    "slug": "adalo",
+    "hex": "3A3A3A",
+    "hasWordmark": true
+  },
+  {
+    "title": "Adidas",
+    "slug": "adidas",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Adobe",
+    "slug": "adobe",
+    "hex": "EB1000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Adobe XD",
+    "slug": "adobexd",
+    "hex": "470137",
+    "hasWordmark": true
+  },
+  {
+    "title": "Affinity Designer",
+    "slug": "affinitydesigner",
+    "hex": "134881",
+    "hasWordmark": true
+  },
+  {
+    "title": "Affinity Photo",
+    "slug": "affinityphoto",
+    "hex": "4E3188",
+    "hasWordmark": true
+  },
+  {
+    "title": "Affinity Publisher",
+    "slug": "affinitypublisher",
+    "hex": "891B26",
+    "hasWordmark": true
+  },
+  {
+    "title": "After Effects",
+    "slug": "aftereffects",
+    "hex": "00005B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ahrefs",
+    "slug": "ahrefs",
+    "hex": "054ADA",
+    "hasWordmark": true
+  },
+  {
+    "title": "Airbnb",
+    "slug": "airbnb",
+    "hex": "FF5A5F",
+    "hasWordmark": true
+  },
+  {
+    "title": "Airtable",
+    "slug": "airtable",
+    "hex": "FCB400",
+    "hasWordmark": true
+  },
+  {
+    "title": "Aldi Nord",
+    "slug": "aldinord",
+    "hex": "2490D7",
+    "hasWordmark": false
+  },
+  {
+    "title": "Algolia",
+    "slug": "algolia",
+    "hex": "5468FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Algorand",
+    "slug": "algorand",
+    "hex": "627EEA",
+    "hasWordmark": false
+  },
+  {
+    "title": "Alibaba",
+    "slug": "alibaba",
+    "hex": "FF5A00",
+    "hasWordmark": true
+  },
+  {
+    "title": "Alibaba Cloud",
+    "slug": "alibabacloud",
+    "hex": "ED6B28",
+    "hasWordmark": true
+  },
+  {
+    "title": "Alibaba.com",
+    "slug": "alibabadotcom",
+    "hex": "FF6A00",
+    "hasWordmark": false
+  },
+  {
+    "title": "AliExpress",
+    "slug": "aliexpress",
+    "hex": "FF9900",
+    "hasWordmark": true
+  },
+  {
+    "title": "Amazon",
+    "slug": "amazon",
+    "hex": "FF9900",
+    "hasWordmark": true
+  },
+  {
+    "title": "Amazon Drive",
+    "slug": "amazondrive",
+    "hex": "3A89F6",
+    "hasWordmark": true
+  },
+  {
+    "title": "Amazon Music",
+    "slug": "amazonmusic",
+    "hex": "25D1DA",
+    "hasWordmark": true
+  },
+  {
+    "title": "AMD",
+    "slug": "amd",
+    "hex": "ED1C24",
+    "hasWordmark": false
+  },
+  {
+    "title": "American Airlines",
+    "slug": "americanairlines",
+    "hex": "0078D2",
+    "hasWordmark": false
+  },
+  {
+    "title": "American Express",
+    "slug": "americanexpress",
+    "hex": "2E77BC",
+    "hasWordmark": false
+  },
+  {
+    "title": "Americanas",
+    "slug": "americanas",
+    "hex": "F80032",
+    "hasWordmark": false
+  },
+  {
+    "title": "Anaconda",
+    "slug": "anaconda",
+    "hex": "44A833",
+    "hasWordmark": false
+  },
+  {
+    "title": "Android",
+    "slug": "android",
+    "hex": "3DDC84",
+    "hasWordmark": false
+  },
+  {
+    "title": "Angular",
+    "slug": "angular",
+    "hex": "0F0F11",
+    "hasWordmark": false
+  },
+  {
+    "title": "Animate",
+    "slug": "animate",
+    "hex": "00005B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ansible",
+    "slug": "ansible",
+    "hex": "EE0000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ant Design",
+    "slug": "antdesign",
+    "hex": "4285EB",
+    "hasWordmark": false
+  },
+  {
+    "title": "Anthropic",
+    "slug": "anthropic",
+    "hex": "191919",
+    "hasWordmark": true
+  },
+  {
+    "title": "AOL",
+    "slug": "aol",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "Apache Kafka",
+    "slug": "apachekafka",
+    "hex": "1A1919",
+    "hasWordmark": true
+  },
+  {
+    "title": "App Store",
+    "slug": "appstore",
+    "hex": "18BFFB",
+    "hasWordmark": false
+  },
+  {
+    "title": "Apple",
+    "slug": "apple",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Apple Music",
+    "slug": "applemusic",
+    "hex": "FA233B",
+    "hasWordmark": true
+  },
+  {
+    "title": "Apple Music Classical",
+    "slug": "applemusicclassical",
+    "hex": "F9233B",
+    "hasWordmark": true
+  },
+  {
+    "title": "Apple TV",
+    "slug": "appletv",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "AppSheet",
+    "slug": "appsheet",
+    "hex": "1967D2",
+    "hasWordmark": true
+  },
+  {
+    "title": "Appwrite",
+    "slug": "appwrite",
+    "hex": "19191D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Arc",
+    "slug": "arc",
+    "hex": "1A007F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Arch Linux",
+    "slug": "archlinux",
+    "hex": "1793D1",
+    "hasWordmark": false
+  },
+  {
+    "title": "Arduino",
+    "slug": "arduino",
+    "hex": "00878F",
+    "hasWordmark": false
+  },
+  {
+    "title": "arXiv",
+    "slug": "arxiv",
+    "hex": "B31B1B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Asana",
+    "slug": "asana",
+    "hex": "F06A6A",
+    "hasWordmark": true
+  },
+  {
+    "title": "Ask.com",
+    "slug": "askcom",
+    "hex": "CE0000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Aston Martin",
+    "slug": "astonmartin",
+    "hex": "00665E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Astro",
+    "slug": "astro",
+    "hex": "BC52EE",
+    "hasWordmark": true
+  },
+  {
+    "title": "ASUS",
+    "slug": "asus",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Atlassian",
+    "slug": "atlassian",
+    "hex": "0052CC",
+    "hasWordmark": false
+  },
+  {
+    "title": "Atom",
+    "slug": "atom",
+    "hex": "60B57D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Audacity",
+    "slug": "audacity",
+    "hex": "0000CC",
+    "hasWordmark": false
+  },
+  {
+    "title": "Audi",
+    "slug": "audi",
+    "hex": "BB0A30",
+    "hasWordmark": false
+  },
+  {
+    "title": "Audition",
+    "slug": "audition",
+    "hex": "00005B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Auth.js",
+    "slug": "authjs",
+    "hex": "E3E2FA",
+    "hasWordmark": false
+  },
+  {
+    "title": "Auth0",
+    "slug": "auth0",
+    "hex": "EB5424",
+    "hasWordmark": false
+  },
+  {
+    "title": "Authy",
+    "slug": "authy",
+    "hex": "EC1C24",
+    "hasWordmark": false
+  },
+  {
+    "title": "AWeber",
+    "slug": "aweber",
+    "hex": "246BE8",
+    "hasWordmark": true
+  },
+  {
+    "title": "AWS",
+    "slug": "aws",
+    "hex": "221F1F",
+    "hasWordmark": true
+  },
+  {
+    "title": "Azul Linhas Aéreas",
+    "slug": "azul",
+    "hex": "041E42",
+    "hasWordmark": false
+  },
+  {
+    "title": "Babel",
+    "slug": "babel",
+    "hex": "F9DC3E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Baidu",
+    "slug": "baidu",
+    "hex": "2319DC",
+    "hasWordmark": true
+  },
+  {
+    "title": "Banco BMG",
+    "slug": "bancobmg",
+    "hex": "FF6300",
+    "hasWordmark": false
+  },
+  {
+    "title": "Banco do Brasil",
+    "slug": "bancodobrasil",
+    "hex": "FFFFFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Banco Inter",
+    "slug": "bancointer",
+    "hex": "EA7100",
+    "hasWordmark": false
+  },
+  {
+    "title": "Banco Original",
+    "slug": "bancooriginal",
+    "hex": "00A857",
+    "hasWordmark": false
+  },
+  {
+    "title": "Bank of America",
+    "slug": "bankofamerica",
+    "hex": "012169",
+    "hasWordmark": false
+  },
+  {
+    "title": "Barclays",
+    "slug": "barclays",
+    "hex": "00AEEF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Basecamp",
+    "slug": "basecamp",
+    "hex": "FBDD38",
+    "hasWordmark": true
+  },
+  {
+    "title": "Bash",
+    "slug": "bash",
+    "hex": "1B1B1F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Behance",
+    "slug": "behance",
+    "hex": "1769FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Bentley",
+    "slug": "bentley",
+    "hex": "333333",
+    "hasWordmark": false
+  },
+  {
+    "title": "BeReal",
+    "slug": "bereal",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "Better Auth",
+    "slug": "betterauth",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "BigCommerce",
+    "slug": "bigcommerce",
+    "hex": "34313F",
+    "hasWordmark": true
+  },
+  {
+    "title": "Binance",
+    "slug": "binance",
+    "hex": "F0B90B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Bing",
+    "slug": "bing",
+    "hex": "37BDFF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Biome",
+    "slug": "biome",
+    "hex": "60A5FA",
+    "hasWordmark": false
+  },
+  {
+    "title": "Bitbucket",
+    "slug": "bitbucket",
+    "hex": "0052CC",
+    "hasWordmark": false
+  },
+  {
+    "title": "Bitcoin",
+    "slug": "bitcoin",
+    "hex": "F7931A",
+    "hasWordmark": false
+  },
+  {
+    "title": "Bitwarden",
+    "slug": "bitwarden",
+    "hex": "175DDC",
+    "hasWordmark": false
+  },
+  {
+    "title": "Blender",
+    "slug": "blender",
+    "hex": "265787",
+    "hasWordmark": true
+  },
+  {
+    "title": "Bluesky",
+    "slug": "bluesky",
+    "hex": "1185FE",
+    "hasWordmark": false
+  },
+  {
+    "title": "BMW",
+    "slug": "bmw",
+    "hex": "0066B1",
+    "hasWordmark": false
+  },
+  {
+    "title": "BNB",
+    "slug": "bnb",
+    "hex": "F3BA2F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Bolt",
+    "slug": "bolt",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Booking.com",
+    "slug": "bookingdotcom",
+    "hex": "003A9A",
+    "hasWordmark": false
+  },
+  {
+    "title": "Bootstrap",
+    "slug": "bootstrap",
+    "hex": "7952B3",
+    "hasWordmark": false
+  },
+  {
+    "title": "Box",
+    "slug": "box",
+    "hex": "0061D5",
+    "hasWordmark": false
+  },
+  {
+    "title": "Bradesco",
+    "slug": "bradesco",
+    "hex": "E5173F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Brahma",
+    "slug": "brahma",
+    "hex": "BE0000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Brave",
+    "slug": "brave",
+    "hex": "FF5500",
+    "hasWordmark": true
+  },
+  {
+    "title": "BTG Pactual",
+    "slug": "btgpactual",
+    "hex": "001E61",
+    "hasWordmark": false
+  },
+  {
+    "title": "Bubble",
+    "slug": "bubble",
+    "hex": "262626",
+    "hasWordmark": true
+  },
+  {
+    "title": "Buffer",
+    "slug": "buffer",
+    "hex": "231F20",
+    "hasWordmark": true
+  },
+  {
+    "title": "Bugatti",
+    "slug": "bugatti",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Bun",
+    "slug": "bun",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Burger King",
+    "slug": "burgerking",
+    "hex": "D62300",
+    "hasWordmark": false
+  },
+  {
+    "title": "Buy Me a Coffee",
+    "slug": "buymeacoffee",
+    "hex": "0D0C22",
+    "hasWordmark": false
+  },
+  {
+    "title": "C",
+    "slug": "c",
+    "hex": "A8B9CC",
+    "hasWordmark": false
+  },
+  {
+    "title": "C++",
+    "slug": "cplusplus",
+    "hex": "00599C",
+    "hasWordmark": false
+  },
+  {
+    "title": "Caixa",
+    "slug": "caixa",
+    "hex": "F7941D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Cal.com",
+    "slug": "calcom",
+    "hex": "292929",
+    "hasWordmark": false
+  },
+  {
+    "title": "Calendly",
+    "slug": "calendly",
+    "hex": "006BFF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Canva",
+    "slug": "canva",
+    "hex": "7D2AE7",
+    "hasWordmark": true
+  },
+  {
+    "title": "Carrd",
+    "slug": "carrd",
+    "hex": "7366A7",
+    "hasWordmark": true
+  },
+  {
+    "title": "Carrefour",
+    "slug": "carrefour",
+    "hex": "004E9F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Casas Bahia",
+    "slug": "casasbahia",
+    "hex": "0033C5",
+    "hasWordmark": true
+  },
+  {
+    "title": "Cash App",
+    "slug": "cashapp",
+    "hex": "1A1A1A",
+    "hasWordmark": true
+  },
+  {
+    "title": "Cerebras",
+    "slug": "cerebras",
+    "hex": "F15A29",
+    "hasWordmark": true
+  },
+  {
+    "title": "Chakra UI",
+    "slug": "chakraui",
+    "hex": "7BCBD4",
+    "hasWordmark": false
+  },
+  {
+    "title": "Chart.js",
+    "slug": "chartjs",
+    "hex": "36A2EB",
+    "hasWordmark": false
+  },
+  {
+    "title": "Chase",
+    "slug": "chase",
+    "hex": "117ACA",
+    "hasWordmark": false
+  },
+  {
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "hex": "CD9834",
+    "hasWordmark": false
+  },
+  {
+    "title": "Chromium",
+    "slug": "chromium",
+    "hex": "1972E7",
+    "hasWordmark": false
+  },
+  {
+    "title": "Cinema 4D",
+    "slug": "cinema4d",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Cisco",
+    "slug": "cisco",
+    "hex": "00BCEB",
+    "hasWordmark": false
+  },
+  {
+    "title": "Claro",
+    "slug": "claro",
+    "hex": "505050",
+    "hasWordmark": false
+  },
+  {
+    "title": "Claude",
+    "slug": "claude",
+    "hex": "D97757",
+    "hasWordmark": true
+  },
+  {
+    "title": "Clerk",
+    "slug": "clerk",
+    "hex": "6C47FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "ClickFunnels",
+    "slug": "clickfunnels",
+    "hex": "2A9DDD",
+    "hasWordmark": true
+  },
+  {
+    "title": "ClickUp",
+    "slug": "clickup",
+    "hex": "8930FD",
+    "hasWordmark": true
+  },
+  {
+    "title": "Cloudflare",
+    "slug": "cloudflare",
+    "hex": "FBAD41",
+    "hasWordmark": true
+  },
+  {
+    "title": "Cloudinary",
+    "slug": "cloudinary",
+    "hex": "3448C5",
+    "hasWordmark": false
+  },
+  {
+    "title": "Clubhouse",
+    "slug": "clubhouse",
+    "hex": "1F1F1A",
+    "hasWordmark": false
+  },
+  {
+    "title": "CNN",
+    "slug": "cnn",
+    "hex": "CC0000",
+    "hasWordmark": false
+  },
+  {
+    "title": "COBOL",
+    "slug": "cobol",
+    "hex": "005CA5",
+    "hasWordmark": false
+  },
+  {
+    "title": "Coca-Cola",
+    "slug": "cocacola",
+    "hex": "D00013",
+    "hasWordmark": false
+  },
+  {
+    "title": "Coda",
+    "slug": "coda",
+    "hex": "EE5A29",
+    "hasWordmark": true
+  },
+  {
+    "title": "CodePen",
+    "slug": "codepen",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "CodeSandbox",
+    "slug": "codesandbox",
+    "hex": "151515",
+    "hasWordmark": false
+  },
+  {
+    "title": "Codex",
+    "slug": "codex",
+    "hex": "111111",
+    "hasWordmark": true
+  },
+  {
+    "title": "Cohere",
+    "slug": "cohere",
+    "hex": "39594D",
+    "hasWordmark": true
+  },
+  {
+    "title": "Coinbase",
+    "slug": "coinbase",
+    "hex": "0052FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Confluence",
+    "slug": "confluence",
+    "hex": "172B4D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Contentful",
+    "slug": "contentful",
+    "hex": "2478CC",
+    "hasWordmark": false
+  },
+  {
+    "title": "ConvertKit",
+    "slug": "convertkit",
+    "hex": "FB6970",
+    "hasWordmark": true
+  },
+  {
+    "title": "Convex",
+    "slug": "convex",
+    "hex": "F3B01C",
+    "hasWordmark": true
+  },
+  {
+    "title": "Copper",
+    "slug": "copper",
+    "hex": "FF3465",
+    "hasWordmark": true
+  },
+  {
+    "title": "Correios",
+    "slug": "correios",
+    "hex": "FFC20E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Coursera",
+    "slug": "coursera",
+    "hex": "0056D2",
+    "hasWordmark": true
+  },
+  {
+    "title": "cPanel",
+    "slug": "cpanel",
+    "hex": "FF6C2C",
+    "hasWordmark": true
+  },
+  {
+    "title": "Craft CMS",
+    "slug": "craftcms",
+    "hex": "E5422B",
+    "hasWordmark": true
+  },
+  {
+    "title": "Creative Commons",
+    "slug": "creativecommons",
+    "hex": "ED592F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Crunchyroll",
+    "slug": "crunchyroll",
+    "hex": "F47522",
+    "hasWordmark": true
+  },
+  {
+    "title": "CSS",
+    "slug": "css",
+    "hex": "663399",
+    "hasWordmark": false
+  },
+  {
+    "title": "Cursor",
+    "slug": "cursor",
+    "hex": "26251E",
+    "hasWordmark": true
+  },
+  {
+    "title": "Cypress",
+    "slug": "cypress",
+    "hex": "69D3A7",
+    "hasWordmark": false
+  },
+  {
+    "title": "D3.js",
+    "slug": "d3js",
+    "hex": "F9A03C",
+    "hasWordmark": false
+  },
+  {
+    "title": "daily.dev",
+    "slug": "dailydev",
+    "hex": "151618",
+    "hasWordmark": false
+  },
+  {
+    "title": "Dailymotion",
+    "slug": "dailymotion",
+    "hex": "0A0A0A",
+    "hasWordmark": false
+  },
+  {
+    "title": "daisyUI",
+    "slug": "daisyui",
+    "hex": "1AD1A5",
+    "hasWordmark": false
+  },
+  {
+    "title": "Dart",
+    "slug": "dart",
+    "hex": "0175C2",
+    "hasWordmark": false
+  },
+  {
+    "title": "Databricks",
+    "slug": "databricks",
+    "hex": "FF3621",
+    "hasWordmark": false
+  },
+  {
+    "title": "Datadog",
+    "slug": "datadog",
+    "hex": "632CA6",
+    "hasWordmark": false
+  },
+  {
+    "title": "DaVinci Resolve",
+    "slug": "davinciresolve",
+    "hex": "233A51",
+    "hasWordmark": false
+  },
+  {
+    "title": "Debian",
+    "slug": "debian",
+    "hex": "A81D33",
+    "hasWordmark": false
+  },
+  {
+    "title": "DeepSeek",
+    "slug": "deepseek",
+    "hex": "4D6BFE",
+    "hasWordmark": true
+  },
+  {
+    "title": "Deezer",
+    "slug": "deezer",
+    "hex": "29AB70",
+    "hasWordmark": true
+  },
+  {
+    "title": "Deliveroo",
+    "slug": "deliveroo",
+    "hex": "00CCBC",
+    "hasWordmark": false
+  },
+  {
+    "title": "Dell",
+    "slug": "dell",
+    "hex": "007DB8",
+    "hasWordmark": false
+  },
+  {
+    "title": "Delta",
+    "slug": "delta",
+    "hex": "003366",
+    "hasWordmark": false
+  },
+  {
+    "title": "Deno",
+    "slug": "deno",
+    "hex": "70FFAF",
+    "hasWordmark": true
+  },
+  {
+    "title": "dev.to",
+    "slug": "devto",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "DigitalOcean",
+    "slug": "digitalocean",
+    "hex": "0080FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Directus",
+    "slug": "directus",
+    "hex": "6644FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Discord",
+    "slug": "discord",
+    "hex": "5865F2",
+    "hasWordmark": true
+  },
+  {
+    "title": "Discourse",
+    "slug": "discourse",
+    "hex": "FFF9AE",
+    "hasWordmark": false
+  },
+  {
+    "title": "Disney+",
+    "slug": "disneyplus",
+    "hex": "0367DE",
+    "hasWordmark": true
+  },
+  {
+    "title": "Django",
+    "slug": "django",
+    "hex": "44B78B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Docker",
+    "slug": "docker",
+    "hex": "2496ED",
+    "hasWordmark": true
+  },
+  {
+    "title": "Docusaurus",
+    "slug": "docusaurus",
+    "hex": "3ECC5F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Dogecoin",
+    "slug": "dogecoin",
+    "hex": "C2A633",
+    "hasWordmark": false
+  },
+  {
+    "title": "DoorDash",
+    "slug": "doordash",
+    "hex": "FF3008",
+    "hasWordmark": false
+  },
+  {
+    "title": "Dreamweaver",
+    "slug": "dreamweaver",
+    "hex": "FF61F6",
+    "hasWordmark": false
+  },
+  {
+    "title": "Dribbble",
+    "slug": "dribbble",
+    "hex": "EA4C89",
+    "hasWordmark": true
+  },
+  {
+    "title": "Drizzle ORM",
+    "slug": "drizzleorm",
+    "hex": "121212",
+    "hasWordmark": false
+  },
+  {
+    "title": "Dropbox",
+    "slug": "dropbox",
+    "hex": "0061FE",
+    "hasWordmark": true
+  },
+  {
+    "title": "Drupal",
+    "slug": "drupal",
+    "hex": "0678BE",
+    "hasWordmark": false
+  },
+  {
+    "title": "Dub",
+    "slug": "dub",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Ducati",
+    "slug": "ducati",
+    "hex": "CC0000",
+    "hasWordmark": false
+  },
+  {
+    "title": "DuckDuckGo",
+    "slug": "duckduckgo",
+    "hex": "DE5833",
+    "hasWordmark": true
+  },
+  {
+    "title": "Duolingo",
+    "slug": "duolingo",
+    "hex": "58CC02",
+    "hasWordmark": false
+  },
+  {
+    "title": "EA",
+    "slug": "ea",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "eBay",
+    "slug": "ebay",
+    "hex": "E53238",
+    "hasWordmark": true
+  },
+  {
+    "title": "Eclipse IDE",
+    "slug": "eclipseide",
+    "hex": "473788",
+    "hasWordmark": false
+  },
+  {
+    "title": "edX",
+    "slug": "edx",
+    "hex": "02262B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Elastic",
+    "slug": "elastic",
+    "hex": "005571",
+    "hasWordmark": false
+  },
+  {
+    "title": "Electron",
+    "slug": "electron",
+    "hex": "47848F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Elementor",
+    "slug": "elementor",
+    "hex": "92003B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Emacs",
+    "slug": "emacs",
+    "hex": "8381C5",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ember",
+    "slug": "ember",
+    "hex": "E24B31",
+    "hasWordmark": false
+  },
+  {
+    "title": "Emirates",
+    "slug": "emirates",
+    "hex": "D71921",
+    "hasWordmark": false
+  },
+  {
+    "title": "Epic Games",
+    "slug": "epicgames",
+    "hex": "313131",
+    "hasWordmark": false
+  },
+  {
+    "title": "Esbuild",
+    "slug": "esbuild",
+    "hex": "FFCF00",
+    "hasWordmark": false
+  },
+  {
+    "title": "ESLint",
+    "slug": "eslint",
+    "hex": "4B32C3",
+    "hasWordmark": true
+  },
+  {
+    "title": "Ethereum",
+    "slug": "ethereum",
+    "hex": "3C3C3D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Etsy",
+    "slug": "etsy",
+    "hex": "F56502",
+    "hasWordmark": true
+  },
+  {
+    "title": "Evernote",
+    "slug": "evernote",
+    "hex": "00A82D",
+    "hasWordmark": true
+  },
+  {
+    "title": "Expedia",
+    "slug": "expedia",
+    "hex": "191E3B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Expo",
+    "slug": "expo",
+    "hex": "1C2024",
+    "hasWordmark": false
+  },
+  {
+    "title": "Express.js",
+    "slug": "expressjs",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Extra",
+    "slug": "extra",
+    "hex": "E3131A",
+    "hasWordmark": false
+  },
+  {
+    "title": "Facebook",
+    "slug": "facebook",
+    "hex": "1877F2",
+    "hasWordmark": true
+  },
+  {
+    "title": "FastAPI",
+    "slug": "fastapi",
+    "hex": "009688",
+    "hasWordmark": false
+  },
+  {
+    "title": "Fastify",
+    "slug": "fastify",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Fedora",
+    "slug": "fedora",
+    "hex": "51A2DA",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "hex": "D40000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Fiat",
+    "slug": "fiat",
+    "hex": "941711",
+    "hasWordmark": false
+  },
+  {
+    "title": "Figma",
+    "slug": "figma",
+    "hex": "1ABCFE",
+    "hasWordmark": true
+  },
+  {
+    "title": "Fila",
+    "slug": "fila",
+    "hex": "002D62",
+    "hasWordmark": false
+  },
+  {
+    "title": "Finsweet",
+    "slug": "finsweet",
+    "hex": "111111",
+    "hasWordmark": true
+  },
+  {
+    "title": "Firebase",
+    "slug": "firebase",
+    "hex": "FFA000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Firefox",
+    "slug": "firefox",
+    "hex": "FFF44F",
+    "hasWordmark": true
+  },
+  {
+    "title": "Flask",
+    "slug": "flask",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Flickr",
+    "slug": "flickr",
+    "hex": "FF0084",
+    "hasWordmark": true
+  },
+  {
+    "title": "Flutter",
+    "slug": "flutter",
+    "hex": "02569B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Fly.io",
+    "slug": "flyio",
+    "hex": "BA7BF0",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ford",
+    "slug": "ford",
+    "hex": "00274E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Fortnite",
+    "slug": "fortnite",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Fortran",
+    "slug": "fortran",
+    "hex": "734F96",
+    "hasWordmark": false
+  },
+  {
+    "title": "Foursquare",
+    "slug": "foursquare",
+    "hex": "F94877",
+    "hasWordmark": true
+  },
+  {
+    "title": "Framer",
+    "slug": "framer",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "FreeBSD",
+    "slug": "freebsd",
+    "hex": "AB2B28",
+    "hasWordmark": false
+  },
+  {
+    "title": "Fresh",
+    "slug": "fresh",
+    "hex": "FFDB1E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Freshworks",
+    "slug": "freshworks",
+    "hex": "9B65C3",
+    "hasWordmark": true
+  },
+  {
+    "title": "Garoto",
+    "slug": "garoto",
+    "hex": "E30613",
+    "hasWordmark": false
+  },
+  {
+    "title": "Gatsby",
+    "slug": "gatsby",
+    "hex": "64328B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ghost",
+    "slug": "ghost",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Ghostty",
+    "slug": "ghostty",
+    "hex": "3551F3",
+    "hasWordmark": true
+  },
+  {
+    "title": "GIMP",
+    "slug": "gimp",
+    "hex": "8C8073",
+    "hasWordmark": false
+  },
+  {
+    "title": "Git",
+    "slug": "git",
+    "hex": "F03C2E",
+    "hasWordmark": true
+  },
+  {
+    "title": "GitHub",
+    "slug": "github",
+    "hex": "24292F",
+    "hasWordmark": true
+  },
+  {
+    "title": "GitHub Actions",
+    "slug": "githubactions",
+    "hex": "2088FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "GitHub Copilot",
+    "slug": "githubcopilot",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "GitLab",
+    "slug": "gitlab",
+    "hex": "FC6D26",
+    "hasWordmark": false
+  },
+  {
+    "title": "Glide",
+    "slug": "glide",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "Glovo",
+    "slug": "glovo",
+    "hex": "F2CC38",
+    "hasWordmark": false
+  },
+  {
+    "title": "Gmail",
+    "slug": "gmail",
+    "hex": "FC413D",
+    "hasWordmark": false
+  },
+  {
+    "title": "GNOME",
+    "slug": "gnome",
+    "hex": "4A86CF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Go",
+    "slug": "go",
+    "hex": "00ADD8",
+    "hasWordmark": false
+  },
+  {
+    "title": "GoDaddy",
+    "slug": "godaddy",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Godot Engine",
+    "slug": "godotengine",
+    "hex": "478CBF",
+    "hasWordmark": false
+  },
+  {
+    "title": "GOL Linhas Aéreas",
+    "slug": "gol",
+    "hex": "37322D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google",
+    "slug": "google",
+    "hex": "4285F4",
+    "hasWordmark": true
+  },
+  {
+    "title": "Google Ads",
+    "slug": "googleads",
+    "hex": "4285F4",
+    "hasWordmark": true
+  },
+  {
+    "title": "Google Analytics",
+    "slug": "googleanalytics",
+    "hex": "F8AB00",
+    "hasWordmark": true
+  },
+  {
+    "title": "Google Calendar",
+    "slug": "googlecalendar",
+    "hex": "1A73E8",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Chat",
+    "slug": "googlechat",
+    "hex": "34A853",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Chrome",
+    "slug": "googlechrome",
+    "hex": "EA4335",
+    "hasWordmark": true
+  },
+  {
+    "title": "Google Classroom",
+    "slug": "googleclassroom",
+    "hex": "0F9D58",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Cloud",
+    "slug": "googlecloud",
+    "hex": "EA4335",
+    "hasWordmark": true
+  },
+  {
+    "title": "Google Colab",
+    "slug": "googlecolab",
+    "hex": "E8710A",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Docs",
+    "slug": "googledocs",
+    "hex": "4285F4",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Drive",
+    "slug": "googledrive",
+    "hex": "FEC700",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Forms",
+    "slug": "googleforms",
+    "hex": "7248B9",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Gemini",
+    "slug": "googlegemini",
+    "hex": "8E75B2",
+    "hasWordmark": true
+  },
+  {
+    "title": "Google Keep",
+    "slug": "googlekeep",
+    "hex": "FFBB00",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Maps",
+    "slug": "googlemaps",
+    "hex": "1A73E8",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Meet",
+    "slug": "googlemeet",
+    "hex": "00897B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Play",
+    "slug": "googleplay",
+    "hex": "EA4335",
+    "hasWordmark": true
+  },
+  {
+    "title": "Google Sheets",
+    "slug": "googlesheets",
+    "hex": "34A853",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Sites",
+    "slug": "googlesites",
+    "hex": "4285F4",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Slides",
+    "slug": "googleslides",
+    "hex": "FBBC04",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Tag Manager",
+    "slug": "googletagmanager",
+    "hex": "8AB4F8",
+    "hasWordmark": true
+  },
+  {
+    "title": "Google Tasks",
+    "slug": "googletasks",
+    "hex": "2684FC",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Vids",
+    "slug": "googlevids",
+    "hex": "4285F4",
+    "hasWordmark": false
+  },
+  {
+    "title": "Google Voice",
+    "slug": "googlevoice",
+    "hex": "1A73E8",
+    "hasWordmark": false
+  },
+  {
+    "title": "Gradio",
+    "slug": "gradio",
+    "hex": "F9D100",
+    "hasWordmark": false
+  },
+  {
+    "title": "Grafana",
+    "slug": "grafana",
+    "hex": "F46800",
+    "hasWordmark": false
+  },
+  {
+    "title": "Grammarly",
+    "slug": "grammarly",
+    "hex": "15C39A",
+    "hasWordmark": true
+  },
+  {
+    "title": "GraphQL",
+    "slug": "graphql",
+    "hex": "E10098",
+    "hasWordmark": false
+  },
+  {
+    "title": "Grok",
+    "slug": "grok",
+    "hex": "0A0A0A",
+    "hasWordmark": true
+  },
+  {
+    "title": "Groq",
+    "slug": "groq",
+    "hex": "F54F35",
+    "hasWordmark": true
+  },
+  {
+    "title": "Gumroad",
+    "slug": "gumroad",
+    "hex": "FF90E8",
+    "hasWordmark": true
+  },
+  {
+    "title": "Hack The Box",
+    "slug": "hackthebox",
+    "hex": "9FEF00",
+    "hasWordmark": true
+  },
+  {
+    "title": "HackerRank",
+    "slug": "hackerrank",
+    "hex": "00EA64",
+    "hasWordmark": true
+  },
+  {
+    "title": "Hashnode",
+    "slug": "hashnode",
+    "hex": "2563EB",
+    "hasWordmark": false
+  },
+  {
+    "title": "Haskell",
+    "slug": "haskell",
+    "hex": "453A62",
+    "hasWordmark": false
+  },
+  {
+    "title": "Havaianas",
+    "slug": "havaianas",
+    "hex": "FB373C",
+    "hasWordmark": false
+  },
+  {
+    "title": "HBO Max",
+    "slug": "hbomax",
+    "hex": "220635",
+    "hasWordmark": true
+  },
+  {
+    "title": "hCaptcha",
+    "slug": "hcaptcha",
+    "hex": "00D4BF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Headless UI",
+    "slug": "headlessui",
+    "hex": "66E3FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Heroku",
+    "slug": "heroku",
+    "hex": "4640B8",
+    "hasWordmark": true
+  },
+  {
+    "title": "Home Assistant",
+    "slug": "homeassistant",
+    "hex": "F2F4F9",
+    "hasWordmark": true
+  },
+  {
+    "title": "Homebrew",
+    "slug": "homebrew",
+    "hex": "D1D2D3",
+    "hasWordmark": false
+  },
+  {
+    "title": "Honda",
+    "slug": "honda",
+    "hex": "E40521",
+    "hasWordmark": false
+  },
+  {
+    "title": "Hono",
+    "slug": "hono",
+    "hex": "FF5B11",
+    "hasWordmark": false
+  },
+  {
+    "title": "Hoppscotch",
+    "slug": "hoppscotch",
+    "hex": "00B381",
+    "hasWordmark": false
+  },
+  {
+    "title": "Hostgator",
+    "slug": "hostgator",
+    "hex": "2E93EE",
+    "hasWordmark": false
+  },
+  {
+    "title": "Hotjar",
+    "slug": "hotjar",
+    "hex": "FF3C00",
+    "hasWordmark": true
+  },
+  {
+    "title": "Hotmart",
+    "slug": "hotmart",
+    "hex": "F04E23",
+    "hasWordmark": true
+  },
+  {
+    "title": "HP",
+    "slug": "hp",
+    "hex": "0096D6",
+    "hasWordmark": false
+  },
+  {
+    "title": "HSBC",
+    "slug": "hsbc",
+    "hex": "DB0011",
+    "hasWordmark": false
+  },
+  {
+    "title": "HTML5",
+    "slug": "html5",
+    "hex": "E34F26",
+    "hasWordmark": false
+  },
+  {
+    "title": "Huawei",
+    "slug": "huawei",
+    "hex": "FF0000",
+    "hasWordmark": false
+  },
+  {
+    "title": "HubSpot",
+    "slug": "hubspot",
+    "hex": "FF7A59",
+    "hasWordmark": false
+  },
+  {
+    "title": "Hugging Face",
+    "slug": "huggingface",
+    "hex": "FFD21E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Hugo",
+    "slug": "hugo",
+    "hex": "EBB951",
+    "hasWordmark": false
+  },
+  {
+    "title": "Hulu",
+    "slug": "hulu",
+    "hex": "1CE783",
+    "hasWordmark": true
+  },
+  {
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "hex": "002C5E",
+    "hasWordmark": false
+  },
+  {
+    "title": "IBM",
+    "slug": "ibm",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "IBM Cloud",
+    "slug": "ibmcloud",
+    "hex": "36E3DA",
+    "hasWordmark": true
+  },
+  {
+    "title": "iCloud",
+    "slug": "icloud",
+    "hex": "3E82F4",
+    "hasWordmark": true
+  },
+  {
+    "title": "iFood",
+    "slug": "ifood",
+    "hex": "EA1D2C",
+    "hasWordmark": false
+  },
+  {
+    "title": "IFTTT",
+    "slug": "ifttt",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "IKEA",
+    "slug": "ikea",
+    "hex": "0058A3",
+    "hasWordmark": false
+  },
+  {
+    "title": "Illustrator",
+    "slug": "illustrator",
+    "hex": "330000",
+    "hasWordmark": true
+  },
+  {
+    "title": "InDesign",
+    "slug": "indesign",
+    "hex": "49021F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Infosys",
+    "slug": "infosys",
+    "hex": "3781C2",
+    "hasWordmark": false
+  },
+  {
+    "title": "Inkscape",
+    "slug": "inkscape",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Insomnia",
+    "slug": "insomnia",
+    "hex": "4000BF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Instagram",
+    "slug": "instagram",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "Intel",
+    "slug": "intel",
+    "hex": "0071C5",
+    "hasWordmark": false
+  },
+  {
+    "title": "Intelbras",
+    "slug": "intelbras",
+    "hex": "33AF2E",
+    "hasWordmark": false
+  },
+  {
+    "title": "IntelliJ IDEA",
+    "slug": "intellijidea",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Intercom",
+    "slug": "intercom",
+    "hex": "081D34",
+    "hasWordmark": true
+  },
+  {
+    "title": "InVision",
+    "slug": "invision",
+    "hex": "FF0066",
+    "hasWordmark": true
+  },
+  {
+    "title": "Ionic",
+    "slug": "ionic",
+    "hex": "3880FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ipiranga",
+    "slug": "ipiranga",
+    "hex": "0043BC",
+    "hasWordmark": false
+  },
+  {
+    "title": "Itaú",
+    "slug": "itau",
+    "hex": "1A5493",
+    "hasWordmark": false
+  },
+  {
+    "title": "Itch.io",
+    "slug": "itchdotio",
+    "hex": "FA5C5C",
+    "hasWordmark": false
+  },
+  {
+    "title": "Jasmine",
+    "slug": "jasmine",
+    "hex": "8A4182",
+    "hasWordmark": false
+  },
+  {
+    "title": "Java",
+    "slug": "java",
+    "hex": "5382A1",
+    "hasWordmark": false
+  },
+  {
+    "title": "JavaScript",
+    "slug": "javascript",
+    "hex": "F7DF1E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Jeep",
+    "slug": "jeep",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Jenkins",
+    "slug": "jenkins",
+    "hex": "D24939",
+    "hasWordmark": false
+  },
+  {
+    "title": "Jest",
+    "slug": "jest",
+    "hex": "C21325",
+    "hasWordmark": false
+  },
+  {
+    "title": "JetBrains",
+    "slug": "jetbrains",
+    "hex": "FE2857",
+    "hasWordmark": false
+  },
+  {
+    "title": "Jira",
+    "slug": "jira",
+    "hex": "2684FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Joomla",
+    "slug": "joomla",
+    "hex": "5091CD",
+    "hasWordmark": false
+  },
+  {
+    "title": "jQuery",
+    "slug": "jquery",
+    "hex": "131B28",
+    "hasWordmark": false
+  },
+  {
+    "title": "JSON",
+    "slug": "json",
+    "hex": "FFFFFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Julia",
+    "slug": "julia",
+    "hex": "CB3C33",
+    "hasWordmark": false
+  },
+  {
+    "title": "Jupyter",
+    "slug": "jupyter",
+    "hex": "F37626",
+    "hasWordmark": false
+  },
+  {
+    "title": "Kaggle",
+    "slug": "kaggle",
+    "hex": "20BEFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "KDE Plasma",
+    "slug": "kdeplasma",
+    "hex": "1D99F3",
+    "hasWordmark": false
+  },
+  {
+    "title": "Kdenlive",
+    "slug": "kdenlive",
+    "hex": "527EB2",
+    "hasWordmark": false
+  },
+  {
+    "title": "Keycloak",
+    "slug": "keycloak",
+    "hex": "4D4D4D",
+    "hasWordmark": false
+  },
+  {
+    "title": "KFC",
+    "slug": "kfc",
+    "hex": "F40027",
+    "hasWordmark": false
+  },
+  {
+    "title": "Khan Academy",
+    "slug": "khanacademy",
+    "hex": "14BF96",
+    "hasWordmark": false
+  },
+  {
+    "title": "Kia",
+    "slug": "kia",
+    "hex": "05141F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Kick",
+    "slug": "kick",
+    "hex": "53FC18",
+    "hasWordmark": false
+  },
+  {
+    "title": "Kimi",
+    "slug": "kimi",
+    "hex": "027AFF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Klarna",
+    "slug": "klarna",
+    "hex": "FFB3C7",
+    "hasWordmark": true
+  },
+  {
+    "title": "Kotlin",
+    "slug": "kotlin",
+    "hex": "7F52FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Krita",
+    "slug": "krita",
+    "hex": "3BABFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Kubernetes",
+    "slug": "kubernetes",
+    "hex": "326CE5",
+    "hasWordmark": false
+  },
+  {
+    "title": "Lamborghini",
+    "slug": "lamborghini",
+    "hex": "B6A272",
+    "hasWordmark": false
+  },
+  {
+    "title": "LangChain",
+    "slug": "langchain",
+    "hex": "7FC8FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Laravel",
+    "slug": "laravel",
+    "hex": "FF2D20",
+    "hasWordmark": false
+  },
+  {
+    "title": "LastPass",
+    "slug": "lastpass",
+    "hex": "D32D27",
+    "hasWordmark": false
+  },
+  {
+    "title": "LATAM Airlines",
+    "slug": "latam",
+    "hex": "ED1651",
+    "hasWordmark": false
+  },
+  {
+    "title": "LeadPages",
+    "slug": "leadpages",
+    "hex": "603EFF",
+    "hasWordmark": true
+  },
+  {
+    "title": "League of Legends",
+    "slug": "leagueoflegends",
+    "hex": "C28F2C",
+    "hasWordmark": false
+  },
+  {
+    "title": "Lemon Squeezy",
+    "slug": "lemonsqueezy",
+    "hex": "FFC233",
+    "hasWordmark": true
+  },
+  {
+    "title": "Lenovo",
+    "slug": "lenovo",
+    "hex": "E2231A",
+    "hasWordmark": false
+  },
+  {
+    "title": "Let's Encrypt",
+    "slug": "letsencrypt",
+    "hex": "003A70",
+    "hasWordmark": false
+  },
+  {
+    "title": "LG",
+    "slug": "lg",
+    "hex": "A50034",
+    "hasWordmark": false
+  },
+  {
+    "title": "Lidl",
+    "slug": "lidl",
+    "hex": "0050AA",
+    "hasWordmark": false
+  },
+  {
+    "title": "Lightroom",
+    "slug": "lightroom",
+    "hex": "001E36",
+    "hasWordmark": false
+  },
+  {
+    "title": "LINE",
+    "slug": "line",
+    "hex": "06C755",
+    "hasWordmark": true
+  },
+  {
+    "title": "Linear",
+    "slug": "linear",
+    "hex": "5E6AD2",
+    "hasWordmark": false
+  },
+  {
+    "title": "LinkedIn",
+    "slug": "linkedin",
+    "hex": "2867B2",
+    "hasWordmark": true
+  },
+  {
+    "title": "LinkedIn Ads",
+    "slug": "linkedinads",
+    "hex": "2867B2",
+    "hasWordmark": false
+  },
+  {
+    "title": "Linux",
+    "slug": "linux",
+    "hex": "FCC624",
+    "hasWordmark": false
+  },
+  {
+    "title": "Linux Foundation",
+    "slug": "linuxfoundation",
+    "hex": "003778",
+    "hasWordmark": false
+  },
+  {
+    "title": "Lionsgate+",
+    "slug": "lionsgate",
+    "hex": "070707",
+    "hasWordmark": true
+  },
+  {
+    "title": "Lit",
+    "slug": "lit",
+    "hex": "00E8FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Litecoin",
+    "slug": "litecoin",
+    "hex": "A6A9AA",
+    "hasWordmark": false
+  },
+  {
+    "title": "Localiza",
+    "slug": "localiza",
+    "hex": "78DE1F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Lojas Renner",
+    "slug": "lojasrenner",
+    "hex": "D72027",
+    "hasWordmark": false
+  },
+  {
+    "title": "Looker",
+    "slug": "looker",
+    "hex": "4285F4",
+    "hasWordmark": false
+  },
+  {
+    "title": "Loom",
+    "slug": "loom",
+    "hex": "625DF5",
+    "hasWordmark": true
+  },
+  {
+    "title": "Loops",
+    "slug": "loops",
+    "hex": "FC5200",
+    "hasWordmark": true
+  },
+  {
+    "title": "LottieFiles",
+    "slug": "lottiefiles",
+    "hex": "00DDB3",
+    "hasWordmark": true
+  },
+  {
+    "title": "Lovable",
+    "slug": "lovable",
+    "hex": "4B73FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Lua",
+    "slug": "lua",
+    "hex": "000080",
+    "hasWordmark": false
+  },
+  {
+    "title": "Lufthansa",
+    "slug": "lufthansa",
+    "hex": "05164D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Lyft",
+    "slug": "lyft",
+    "hex": "FF00BF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Magalu",
+    "slug": "magalu",
+    "hex": "FFFFFF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Magento",
+    "slug": "magento",
+    "hex": "F26322",
+    "hasWordmark": true
+  },
+  {
+    "title": "MailChimp",
+    "slug": "mailchimp",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "Make",
+    "slug": "make",
+    "hex": "6D00CC",
+    "hasWordmark": true
+  },
+  {
+    "title": "Mantine",
+    "slug": "mantine",
+    "hex": "339AF0",
+    "hasWordmark": false
+  },
+  {
+    "title": "Manus",
+    "slug": "manus",
+    "hex": "34322D",
+    "hasWordmark": true
+  },
+  {
+    "title": "MariaDB",
+    "slug": "mariadb",
+    "hex": "002B64",
+    "hasWordmark": false
+  },
+  {
+    "title": "Markdown",
+    "slug": "markdown",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Marketo",
+    "slug": "marketo",
+    "hex": "5C4C9F",
+    "hasWordmark": true
+  },
+  {
+    "title": "MasterCard",
+    "slug": "mastercard",
+    "hex": "EB001B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Mastodon",
+    "slug": "mastodon",
+    "hex": "6364FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Material UI",
+    "slug": "materialui",
+    "hex": "007FFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "MATLAB",
+    "slug": "matlab",
+    "hex": "4ADDDF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Matrix",
+    "slug": "matrix",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Mattermost",
+    "slug": "mattermost",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Mazda",
+    "slug": "mazda",
+    "hex": "101010",
+    "hasWordmark": false
+  },
+  {
+    "title": "McDonald's",
+    "slug": "mcdonalds",
+    "hex": "FBC817",
+    "hasWordmark": false
+  },
+  {
+    "title": "McLaren",
+    "slug": "mclaren",
+    "hex": "FF0000",
+    "hasWordmark": false
+  },
+  {
+    "title": "MediaWiki",
+    "slug": "mediawiki",
+    "hex": "0A00B2",
+    "hasWordmark": true
+  },
+  {
+    "title": "Medium",
+    "slug": "medium",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "Medusa",
+    "slug": "medusa",
+    "hex": "592EE1",
+    "hasWordmark": false
+  },
+  {
+    "title": "MEGA",
+    "slug": "mega",
+    "hex": "D9272E",
+    "hasWordmark": true
+  },
+  {
+    "title": "Memberstack",
+    "slug": "memberstack",
+    "hex": "2AA8FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Mercado Livre",
+    "slug": "mercadolivre",
+    "hex": "1D3086",
+    "hasWordmark": true
+  },
+  {
+    "title": "Mercado Pago",
+    "slug": "mercadopago",
+    "hex": "00B1EA",
+    "hasWordmark": true
+  },
+  {
+    "title": "Mermaid",
+    "slug": "mermaid",
+    "hex": "121212",
+    "hasWordmark": false
+  },
+  {
+    "title": "Messenger",
+    "slug": "messenger",
+    "hex": "0099FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Meta",
+    "slug": "meta",
+    "hex": "0081FB",
+    "hasWordmark": true
+  },
+  {
+    "title": "Meta Ads Manager",
+    "slug": "metaadsmanager",
+    "hex": "01BB99",
+    "hasWordmark": true
+  },
+  {
+    "title": "MetaMask",
+    "slug": "metamask",
+    "hex": "E4761B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft",
+    "slug": "microsoft",
+    "hex": "F1511B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft Azure",
+    "slug": "microsoftazure",
+    "hex": "0078D4",
+    "hasWordmark": true
+  },
+  {
+    "title": "Microsoft Copilot",
+    "slug": "microsoftcopilot",
+    "hex": "00AEFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft Defender",
+    "slug": "microsoftdefender",
+    "hex": "003375",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft Edge",
+    "slug": "microsoftedge",
+    "hex": "0C59A4",
+    "hasWordmark": true
+  },
+  {
+    "title": "Microsoft Excel",
+    "slug": "microsoftexcel",
+    "hex": "21A366",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft Loop",
+    "slug": "microsoftloop",
+    "hex": "9237E3",
+    "hasWordmark": true
+  },
+  {
+    "title": "Microsoft Office",
+    "slug": "microsoftoffice",
+    "hex": "F32B44",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft OneDrive",
+    "slug": "microsoftonedrive",
+    "hex": "0364B8",
+    "hasWordmark": true
+  },
+  {
+    "title": "Microsoft OneNote",
+    "slug": "microsoftonenote",
+    "hex": "A931D8",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft Outlook",
+    "slug": "microsoftoutlook",
+    "hex": "123B6D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft PowerPoint",
+    "slug": "microsoftpowerpoint",
+    "hex": "D35230",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft SharePoint",
+    "slug": "microsoftsharepoint",
+    "hex": "003B5D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft SQL Server",
+    "slug": "microsoftsqlserver",
+    "hex": "CFD8DC",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft Teams",
+    "slug": "microsoftteams",
+    "hex": "5059C9",
+    "hasWordmark": false
+  },
+  {
+    "title": "Microsoft Word",
+    "slug": "microsoftword",
+    "hex": "103F91",
+    "hasWordmark": false
+  },
+  {
+    "title": "Midjourney",
+    "slug": "midjourney",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Miro",
+    "slug": "miro",
+    "hex": "FFD02F",
+    "hasWordmark": true
+  },
+  {
+    "title": "Mistral AI",
+    "slug": "mistralai",
+    "hex": "FA520F",
+    "hasWordmark": true
+  },
+  {
+    "title": "Mixpanel",
+    "slug": "mixpanel",
+    "hex": "1B0B3B",
+    "hasWordmark": true
+  },
+  {
+    "title": "Model Context Protocol",
+    "slug": "modelcontextprotocol",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Monday.com",
+    "slug": "mondaycom",
+    "hex": "FB275D",
+    "hasWordmark": true
+  },
+  {
+    "title": "Monero",
+    "slug": "monero",
+    "hex": "FF6600",
+    "hasWordmark": false
+  },
+  {
+    "title": "MongoDB",
+    "slug": "mongodb",
+    "hex": "47A248",
+    "hasWordmark": true
+  },
+  {
+    "title": "Monkeytype",
+    "slug": "monkeytype",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Monster",
+    "slug": "monster",
+    "hex": "6D4C9F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Motion",
+    "slug": "motion",
+    "hex": "0F1115",
+    "hasWordmark": false
+  },
+  {
+    "title": "Moz",
+    "slug": "moz",
+    "hex": "24ABE2",
+    "hasWordmark": true
+  },
+  {
+    "title": "Mozilla",
+    "slug": "mozilla",
+    "hex": "161616",
+    "hasWordmark": false
+  },
+  {
+    "title": "Musixmatch",
+    "slug": "musixmatch",
+    "hex": "FF6633",
+    "hasWordmark": true
+  },
+  {
+    "title": "MySQL",
+    "slug": "mysql",
+    "hex": "4479A1",
+    "hasWordmark": true
+  },
+  {
+    "title": "N26",
+    "slug": "n26",
+    "hex": "48AC98",
+    "hasWordmark": false
+  },
+  {
+    "title": "NASA",
+    "slug": "nasa",
+    "hex": "E03C31",
+    "hasWordmark": false
+  },
+  {
+    "title": "Natura",
+    "slug": "natura",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Natura &Co",
+    "slug": "naturaco",
+    "hex": "1D1D1B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Neon",
+    "slug": "neon",
+    "hex": "37C38F",
+    "hasWordmark": true
+  },
+  {
+    "title": "Neovim",
+    "slug": "neovim",
+    "hex": "57A143",
+    "hasWordmark": false
+  },
+  {
+    "title": "NestJS",
+    "slug": "nestjs",
+    "hex": "E0234E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Netflix",
+    "slug": "netflix",
+    "hex": "B11F24",
+    "hasWordmark": true
+  },
+  {
+    "title": "Netlify",
+    "slug": "netlify",
+    "hex": "00C7B7",
+    "hasWordmark": false
+  },
+  {
+    "title": "New Balance",
+    "slug": "newbalance",
+    "hex": "CF0A2C",
+    "hasWordmark": false
+  },
+  {
+    "title": "Next.js",
+    "slug": "nextdotjs",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Nginx",
+    "slug": "nginx",
+    "hex": "019639",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ngrok",
+    "slug": "ngrok",
+    "hex": "10239E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Nike",
+    "slug": "nike",
+    "hex": "111111",
+    "hasWordmark": false
+  },
+  {
+    "title": "Nissan",
+    "slug": "nissan",
+    "hex": "C3002F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Node.js",
+    "slug": "nodedotjs",
+    "hex": "5FA04E",
+    "hasWordmark": false
+  },
+  {
+    "title": "NordVPN",
+    "slug": "nordvpn",
+    "hex": "4687FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Notion",
+    "slug": "notion",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "npm",
+    "slug": "npm",
+    "hex": "CB3837",
+    "hasWordmark": true
+  },
+  {
+    "title": "Nubank",
+    "slug": "nubank",
+    "hex": "820AD1",
+    "hasWordmark": true
+  },
+  {
+    "title": "Nuget",
+    "slug": "nuget",
+    "hex": "004880",
+    "hasWordmark": false
+  },
+  {
+    "title": "NumPy",
+    "slug": "numpy",
+    "hex": "013243",
+    "hasWordmark": false
+  },
+  {
+    "title": "Nuxt",
+    "slug": "nuxt",
+    "hex": "00DC82",
+    "hasWordmark": true
+  },
+  {
+    "title": "NVIDIA",
+    "slug": "nvidia",
+    "hex": "76B900",
+    "hasWordmark": true
+  },
+  {
+    "title": "Nx",
+    "slug": "nx",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "O Boticário",
+    "slug": "oboticario",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "OBS Studio",
+    "slug": "obsstudio",
+    "hex": "302E31",
+    "hasWordmark": false
+  },
+  {
+    "title": "Obsidian",
+    "slug": "obsidian",
+    "hex": "7C3AED",
+    "hasWordmark": false
+  },
+  {
+    "title": "Oi",
+    "slug": "oi",
+    "hex": "FFCC33",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ollama",
+    "slug": "ollama",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Open Source Initiative",
+    "slug": "opensourceinitiative",
+    "hex": "3DA639",
+    "hasWordmark": false
+  },
+  {
+    "title": "OpenAI",
+    "slug": "openai",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "OpenRouter",
+    "slug": "openrouter",
+    "hex": "111111",
+    "hasWordmark": false
+  },
+  {
+    "title": "OpenSea",
+    "slug": "opensea",
+    "hex": "0086FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "OpenVPN",
+    "slug": "openvpn",
+    "hex": "EA7E20",
+    "hasWordmark": false
+  },
+  {
+    "title": "Opera",
+    "slug": "opera",
+    "hex": "FF1B2D",
+    "hasWordmark": true
+  },
+  {
+    "title": "Oracle Cloud",
+    "slug": "oraclecloud",
+    "hex": "C74634",
+    "hasWordmark": true
+  },
+  {
+    "title": "ORCID",
+    "slug": "orcid",
+    "hex": "A6CE39",
+    "hasWordmark": false
+  },
+  {
+    "title": "Óticas Carol",
+    "slug": "oticascarol",
+    "hex": "1F3F77",
+    "hasWordmark": false
+  },
+  {
+    "title": "Outseta",
+    "slug": "outseta",
+    "hex": "FFF1C0",
+    "hasWordmark": true
+  },
+  {
+    "title": "PagSeguro",
+    "slug": "pagseguro",
+    "hex": "FFC801",
+    "hasWordmark": false
+  },
+  {
+    "title": "pandas",
+    "slug": "pandas",
+    "hex": "150458",
+    "hasWordmark": false
+  },
+  {
+    "title": "Pandora",
+    "slug": "pandora",
+    "hex": "030404",
+    "hasWordmark": true
+  },
+  {
+    "title": "Paramount+",
+    "slug": "paramount",
+    "hex": "0064FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Parcel",
+    "slug": "parcel",
+    "hex": "C37A44",
+    "hasWordmark": false
+  },
+  {
+    "title": "Patreon",
+    "slug": "patreon",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Payload CMS",
+    "slug": "payloadcms",
+    "hex": "2F2F2F",
+    "hasWordmark": false
+  },
+  {
+    "title": "PayPal",
+    "slug": "paypal",
+    "hex": "001C64",
+    "hasWordmark": true
+  },
+  {
+    "title": "Penpot",
+    "slug": "penpot",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Perplexity",
+    "slug": "perplexity",
+    "hex": "1FB8CD",
+    "hasWordmark": false
+  },
+  {
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Photopea",
+    "slug": "photopea",
+    "hex": "18A497",
+    "hasWordmark": false
+  },
+  {
+    "title": "Photoshop",
+    "slug": "photoshop",
+    "hex": "001E36",
+    "hasWordmark": true
+  },
+  {
+    "title": "PHP",
+    "slug": "php",
+    "hex": "777BB4",
+    "hasWordmark": false
+  },
+  {
+    "title": "PicPay",
+    "slug": "picpay",
+    "hex": "21C25E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Pinia",
+    "slug": "pinia",
+    "hex": "52CE63",
+    "hasWordmark": false
+  },
+  {
+    "title": "Pinterest",
+    "slug": "pinterest",
+    "hex": "E60019",
+    "hasWordmark": true
+  },
+  {
+    "title": "Pipedrive",
+    "slug": "pipedrive",
+    "hex": "017737",
+    "hasWordmark": true
+  },
+  {
+    "title": "Pitch",
+    "slug": "pitch",
+    "hex": "6B53FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "PlanetScale",
+    "slug": "planetscale",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Platzi",
+    "slug": "platzi",
+    "hex": "98CA3F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Plausible Analytics",
+    "slug": "plausibleanalytics",
+    "hex": "909CF7",
+    "hasWordmark": false
+  },
+  {
+    "title": "PlayStation",
+    "slug": "playstation",
+    "hex": "0070D1",
+    "hasWordmark": false
+  },
+  {
+    "title": "Playwright",
+    "slug": "playwright",
+    "hex": "2D4552",
+    "hasWordmark": false
+  },
+  {
+    "title": "pnpm",
+    "slug": "pnpm",
+    "hex": "F69220",
+    "hasWordmark": true
+  },
+  {
+    "title": "Pocketbase",
+    "slug": "pocketbase",
+    "hex": "16161A",
+    "hasWordmark": false
+  },
+  {
+    "title": "Polygon",
+    "slug": "polygon",
+    "hex": "8247E5",
+    "hasWordmark": false
+  },
+  {
+    "title": "Porsche",
+    "slug": "porsche",
+    "hex": "B12B28",
+    "hasWordmark": false
+  },
+  {
+    "title": "Positivo",
+    "slug": "positivo",
+    "hex": "FFFFFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "PostCSS",
+    "slug": "postcss",
+    "hex": "DD3735",
+    "hasWordmark": true
+  },
+  {
+    "title": "PostgreSQL",
+    "slug": "postgresql",
+    "hex": "4169E1",
+    "hasWordmark": true
+  },
+  {
+    "title": "PostHog",
+    "slug": "posthog",
+    "hex": "1D4AFF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Postman",
+    "slug": "postman",
+    "hex": "FF6C37",
+    "hasWordmark": false
+  },
+  {
+    "title": "PowerShell",
+    "slug": "powershell",
+    "hex": "A9C8FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "PowerToys",
+    "slug": "powertoys",
+    "hex": "D7CCB3",
+    "hasWordmark": false
+  },
+  {
+    "title": "Preact",
+    "slug": "preact",
+    "hex": "673AB8",
+    "hasWordmark": false
+  },
+  {
+    "title": "Premiere",
+    "slug": "premiere",
+    "hex": "00005B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Prettier",
+    "slug": "prettier",
+    "hex": "F7B93E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Prime Video",
+    "slug": "primevideo",
+    "hex": "1A98FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Prisma",
+    "slug": "prisma",
+    "hex": "2D3748",
+    "hasWordmark": false
+  },
+  {
+    "title": "Procreate",
+    "slug": "procreate",
+    "hex": "242424",
+    "hasWordmark": true
+  },
+  {
+    "title": "Product Hunt",
+    "slug": "producthunt",
+    "hex": "FF6154",
+    "hasWordmark": true
+  },
+  {
+    "title": "Prometheus",
+    "slug": "prometheus",
+    "hex": "E6522C",
+    "hasWordmark": false
+  },
+  {
+    "title": "Proton Mail",
+    "slug": "protonmail",
+    "hex": "6D4AFF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Proton VPN",
+    "slug": "protonvpn",
+    "hex": "66DEB1",
+    "hasWordmark": true
+  },
+  {
+    "title": "Pulumi",
+    "slug": "pulumi",
+    "hex": "F26E7E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Puma",
+    "slug": "puma",
+    "hex": "242B2F",
+    "hasWordmark": false
+  },
+  {
+    "title": "PyCharm",
+    "slug": "pycharm",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Python",
+    "slug": "python",
+    "hex": "3776AB",
+    "hasWordmark": false
+  },
+  {
+    "title": "PyTorch",
+    "slug": "pytorch",
+    "hex": "EE4C2C",
+    "hasWordmark": false
+  },
+  {
+    "title": "qbittorrent",
+    "slug": "qbittorrent",
+    "hex": "2F67BA",
+    "hasWordmark": false
+  },
+  {
+    "title": "Qdrant",
+    "slug": "qdrant",
+    "hex": "DC244C",
+    "hasWordmark": true
+  },
+  {
+    "title": "QQ",
+    "slug": "qq",
+    "hex": "FAAB07",
+    "hasWordmark": true
+  },
+  {
+    "title": "Qt",
+    "slug": "qt",
+    "hex": "00CC00",
+    "hasWordmark": false
+  },
+  {
+    "title": "Quora",
+    "slug": "quora",
+    "hex": "B92B27",
+    "hasWordmark": true
+  },
+  {
+    "title": "Qwen",
+    "slug": "qwen",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Qwik",
+    "slug": "qwik",
+    "hex": "4340C4",
+    "hasWordmark": false
+  },
+  {
+    "title": "R",
+    "slug": "r",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Rackspace",
+    "slug": "rackspace",
+    "hex": "EB0000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Radix UI",
+    "slug": "radixui",
+    "hex": "121212",
+    "hasWordmark": false
+  },
+  {
+    "title": "Railway",
+    "slug": "railway",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Raspberry Pi",
+    "slug": "raspberrypi",
+    "hex": "A22846",
+    "hasWordmark": false
+  },
+  {
+    "title": "Raycast",
+    "slug": "raycast",
+    "hex": "FF6363",
+    "hasWordmark": true
+  },
+  {
+    "title": "React",
+    "slug": "react",
+    "hex": "61DAFB",
+    "hasWordmark": true
+  },
+  {
+    "title": "React Query",
+    "slug": "reactquery",
+    "hex": "00435B",
+    "hasWordmark": false
+  },
+  {
+    "title": "React Router",
+    "slug": "reactrouter",
+    "hex": "F44250",
+    "hasWordmark": false
+  },
+  {
+    "title": "Red Bull",
+    "slug": "redbull",
+    "hex": "DB0A40",
+    "hasWordmark": false
+  },
+  {
+    "title": "Reddit",
+    "slug": "reddit",
+    "hex": "FF4500",
+    "hasWordmark": true
+  },
+  {
+    "title": "Redis",
+    "slug": "redis",
+    "hex": "FF4438",
+    "hasWordmark": false
+  },
+  {
+    "title": "Redux",
+    "slug": "redux",
+    "hex": "764ABC",
+    "hasWordmark": false
+  },
+  {
+    "title": "RedwoodJS",
+    "slug": "redwoodjs",
+    "hex": "BF4722",
+    "hasWordmark": false
+  },
+  {
+    "title": "Reebok",
+    "slug": "reebok",
+    "hex": "E41D1B",
+    "hasWordmark": false
+  },
+  {
+    "title": "Remix",
+    "slug": "remix",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Remotion",
+    "slug": "remotion",
+    "hex": "0B84F3",
+    "hasWordmark": false
+  },
+  {
+    "title": "Renault",
+    "slug": "renault",
+    "hex": "FFCC33",
+    "hasWordmark": false
+  },
+  {
+    "title": "Render",
+    "slug": "render",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Replicate",
+    "slug": "replicate",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Replit",
+    "slug": "replit",
+    "hex": "F26207",
+    "hasWordmark": true
+  },
+  {
+    "title": "Resend",
+    "slug": "resend",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Retool",
+    "slug": "retool",
+    "hex": "262626",
+    "hasWordmark": true
+  },
+  {
+    "title": "Revolut",
+    "slug": "revolut",
+    "hex": "21262E",
+    "hasWordmark": true
+  },
+  {
+    "title": "Riot Games",
+    "slug": "riotgames",
+    "hex": "EB0029",
+    "hasWordmark": false
+  },
+  {
+    "title": "Robinhood",
+    "slug": "robinhood",
+    "hex": "00C805",
+    "hasWordmark": true
+  },
+  {
+    "title": "Roblox",
+    "slug": "roblox",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Rockstar Games",
+    "slug": "rockstargames",
+    "hex": "FCAF17",
+    "hasWordmark": false
+  },
+  {
+    "title": "Rolls-Royce",
+    "slug": "rollsroyce",
+    "hex": "281432",
+    "hasWordmark": false
+  },
+  {
+    "title": "Rspack",
+    "slug": "rspack",
+    "hex": "AB7F45",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ruby",
+    "slug": "ruby",
+    "hex": "CC342D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Runway",
+    "slug": "runway",
+    "hex": "FEFEFE",
+    "hasWordmark": false
+  },
+  {
+    "title": "Rust",
+    "slug": "rust",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "RxJS",
+    "slug": "rxjs",
+    "hex": "E01D84",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ryanair",
+    "slug": "ryanair",
+    "hex": "073590",
+    "hasWordmark": false
+  },
+  {
+    "title": "Sadia",
+    "slug": "sadia",
+    "hex": "D2232A",
+    "hasWordmark": false
+  },
+  {
+    "title": "Safari",
+    "slug": "safari",
+    "hex": "F3F3F3",
+    "hasWordmark": true
+  },
+  {
+    "title": "Salesforce",
+    "slug": "salesforce",
+    "hex": "00A1E0",
+    "hasWordmark": false
+  },
+  {
+    "title": "Samsung",
+    "slug": "samsung",
+    "hex": "1428A0",
+    "hasWordmark": false
+  },
+  {
+    "title": "Sanity",
+    "slug": "sanity",
+    "hex": "F03E2F",
+    "hasWordmark": true
+  },
+  {
+    "title": "Santander",
+    "slug": "santander",
+    "hex": "FFFFFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "SAP",
+    "slug": "sap",
+    "hex": "0FAAFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Sass",
+    "slug": "sass",
+    "hex": "CC6699",
+    "hasWordmark": false
+  },
+  {
+    "title": "Scala",
+    "slug": "scala",
+    "hex": "4F4F4F",
+    "hasWordmark": false
+  },
+  {
+    "title": "scikit-learn",
+    "slug": "scikitlearn",
+    "hex": "F7931E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Semrush",
+    "slug": "semrush",
+    "hex": "FF642D",
+    "hasWordmark": true
+  },
+  {
+    "title": "SendGrid",
+    "slug": "sendgrid",
+    "hex": "51A9E3",
+    "hasWordmark": false
+  },
+  {
+    "title": "Sentry",
+    "slug": "sentry",
+    "hex": "362D59",
+    "hasWordmark": false
+  },
+  {
+    "title": "Sequelize",
+    "slug": "sequelize",
+    "hex": "2F406A",
+    "hasWordmark": false
+  },
+  {
+    "title": "shadcn/ui",
+    "slug": "shadcnui",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Shazam",
+    "slug": "shazam",
+    "hex": "00AAFF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Shopify",
+    "slug": "shopify",
+    "hex": "95BF47",
+    "hasWordmark": true
+  },
+  {
+    "title": "Signal",
+    "slug": "signal",
+    "hex": "3B45FD",
+    "hasWordmark": false
+  },
+  {
+    "title": "Sketch",
+    "slug": "sketch",
+    "hex": "FDB300",
+    "hasWordmark": true
+  },
+  {
+    "title": "Skol",
+    "slug": "skol",
+    "hex": "FFFFFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Skype",
+    "slug": "skype",
+    "hex": "00B7F0",
+    "hasWordmark": false
+  },
+  {
+    "title": "Slack",
+    "slug": "slack",
+    "hex": "E01E5A",
+    "hasWordmark": true
+  },
+  {
+    "title": "Snapchat",
+    "slug": "snapchat",
+    "hex": "000008",
+    "hasWordmark": false
+  },
+  {
+    "title": "Snowflake",
+    "slug": "snowflake",
+    "hex": "29B5E8",
+    "hasWordmark": false
+  },
+  {
+    "title": "Socket.IO",
+    "slug": "socketio",
+    "hex": "010101",
+    "hasWordmark": true
+  },
+  {
+    "title": "Softr",
+    "slug": "softr",
+    "hex": "F9A619",
+    "hasWordmark": true
+  },
+  {
+    "title": "Solana",
+    "slug": "solana",
+    "hex": "9945FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Solidity",
+    "slug": "solidity",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "SolidJS",
+    "slug": "solidjs",
+    "hex": "76B3E1",
+    "hasWordmark": false
+  },
+  {
+    "title": "Sony",
+    "slug": "sony",
+    "hex": "FFFFFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "SoundCloud",
+    "slug": "soundcloud",
+    "hex": "FF5500",
+    "hasWordmark": true
+  },
+  {
+    "title": "Sourcegraph",
+    "slug": "sourcegraph",
+    "hex": "F96316",
+    "hasWordmark": false
+  },
+  {
+    "title": "SpaceX",
+    "slug": "spacex",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Spotify",
+    "slug": "spotify",
+    "hex": "1ED760",
+    "hasWordmark": true
+  },
+  {
+    "title": "Spring",
+    "slug": "spring",
+    "hex": "68BD45",
+    "hasWordmark": true
+  },
+  {
+    "title": "SQLite",
+    "slug": "sqlite",
+    "hex": "003B57",
+    "hasWordmark": false
+  },
+  {
+    "title": "Square",
+    "slug": "square",
+    "hex": "3E4348",
+    "hasWordmark": false
+  },
+  {
+    "title": "Squarespace",
+    "slug": "squarespace",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "Stability AI",
+    "slug": "stabilityai",
+    "hex": "9D39FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Stack Overflow",
+    "slug": "stackoverflow",
+    "hex": "F58025",
+    "hasWordmark": true
+  },
+  {
+    "title": "StackBlitz",
+    "slug": "stackblitz",
+    "hex": "1269D3",
+    "hasWordmark": false
+  },
+  {
+    "title": "Stacker",
+    "slug": "stacker",
+    "hex": "3333FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Starbucks",
+    "slug": "starbucks",
+    "hex": "006241",
+    "hasWordmark": false
+  },
+  {
+    "title": "Starz",
+    "slug": "starz",
+    "hex": "292929",
+    "hasWordmark": true
+  },
+  {
+    "title": "Steam",
+    "slug": "steam",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Storyblok",
+    "slug": "storyblok",
+    "hex": "0AB3AF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Storybook",
+    "slug": "storybook",
+    "hex": "FF4785",
+    "hasWordmark": false
+  },
+  {
+    "title": "Strapi",
+    "slug": "strapi",
+    "hex": "4945FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Stripe",
+    "slug": "stripe",
+    "hex": "635BFF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Styled Components",
+    "slug": "styledcomponents",
+    "hex": "4A4A4A",
+    "hasWordmark": false
+  },
+  {
+    "title": "Subaru",
+    "slug": "subaru",
+    "hex": "013C74",
+    "hasWordmark": false
+  },
+  {
+    "title": "Sublime Text",
+    "slug": "sublimetext",
+    "hex": "4D4D4E",
+    "hasWordmark": true
+  },
+  {
+    "title": "Substack",
+    "slug": "substack",
+    "hex": "FF6719",
+    "hasWordmark": false
+  },
+  {
+    "title": "Suno",
+    "slug": "suno",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Supabase",
+    "slug": "supabase",
+    "hex": "3ECF8E",
+    "hasWordmark": true
+  },
+  {
+    "title": "SurrealDB",
+    "slug": "surrealdb",
+    "hex": "FF00A0",
+    "hasWordmark": false
+  },
+  {
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "hex": "E30613",
+    "hasWordmark": false
+  },
+  {
+    "title": "Svelte",
+    "slug": "svelte",
+    "hex": "FF3E00",
+    "hasWordmark": false
+  },
+  {
+    "title": "svgl",
+    "slug": "svgl",
+    "hex": "FFFFFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Swagger",
+    "slug": "swagger",
+    "hex": "85EA2D",
+    "hasWordmark": false
+  },
+  {
+    "title": "SWC",
+    "slug": "swc",
+    "hex": "FFA588",
+    "hasWordmark": false
+  },
+  {
+    "title": "Swift",
+    "slug": "swift",
+    "hex": "F05138",
+    "hasWordmark": false
+  },
+  {
+    "title": "SWR",
+    "slug": "swr",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Tagged",
+    "slug": "tagged",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "Tailscale",
+    "slug": "tailscale",
+    "hex": "242424",
+    "hasWordmark": false
+  },
+  {
+    "title": "Tailwind CSS",
+    "slug": "tailwindcss",
+    "hex": "06B6D4",
+    "hasWordmark": true
+  },
+  {
+    "title": "TanStack",
+    "slug": "tanstack",
+    "hex": "6BDAFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Target",
+    "slug": "target",
+    "hex": "CC0000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Tauri",
+    "slug": "tauri",
+    "hex": "FFC131",
+    "hasWordmark": false
+  },
+  {
+    "title": "TED",
+    "slug": "ted",
+    "hex": "E62B1E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Telegram",
+    "slug": "telegram",
+    "hex": "2AABEE",
+    "hasWordmark": true
+  },
+  {
+    "title": "Tencent Cloud",
+    "slug": "tencentcloud",
+    "hex": "00A1FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "TensorFlow",
+    "slug": "tensorflow",
+    "hex": "FF6F00",
+    "hasWordmark": true
+  },
+  {
+    "title": "Terraform",
+    "slug": "terraform",
+    "hex": "844FBA",
+    "hasWordmark": false
+  },
+  {
+    "title": "Tesla",
+    "slug": "tesla",
+    "hex": "CC0000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Tether",
+    "slug": "tether",
+    "hex": "50AF95",
+    "hasWordmark": false
+  },
+  {
+    "title": "The Guardian",
+    "slug": "theguardian",
+    "hex": "052962",
+    "hasWordmark": false
+  },
+  {
+    "title": "Threads",
+    "slug": "threads",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Three.js",
+    "slug": "threejs",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Thunderbird",
+    "slug": "thunderbird",
+    "hex": "0A84FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "TIDAL",
+    "slug": "tidal",
+    "hex": "030404",
+    "hasWordmark": true
+  },
+  {
+    "title": "TikTok",
+    "slug": "tiktok",
+    "hex": "25F4EE",
+    "hasWordmark": true
+  },
+  {
+    "title": "Todoist",
+    "slug": "todoist",
+    "hex": "E44232",
+    "hasWordmark": true
+  },
+  {
+    "title": "Together AI",
+    "slug": "togetherai",
+    "hex": "13171B",
+    "hasWordmark": false
+  },
+  {
+    "title": "TON",
+    "slug": "ton",
+    "hex": "0098EA",
+    "hasWordmark": false
+  },
+  {
+    "title": "Topper",
+    "slug": "topper",
+    "hex": "FFFFFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Tor Project",
+    "slug": "torproject",
+    "hex": "7D4698",
+    "hasWordmark": false
+  },
+  {
+    "title": "TOTVS",
+    "slug": "totvs",
+    "hex": "363636",
+    "hasWordmark": false
+  },
+  {
+    "title": "Toyota",
+    "slug": "toyota",
+    "hex": "EB0A1E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Transmission",
+    "slug": "transmission",
+    "hex": "D70008",
+    "hasWordmark": false
+  },
+  {
+    "title": "Trello",
+    "slug": "trello",
+    "hex": "0052CC",
+    "hasWordmark": true
+  },
+  {
+    "title": "Tripadvisor",
+    "slug": "tripadvisor",
+    "hex": "34E0A1",
+    "hasWordmark": false
+  },
+  {
+    "title": "trivago",
+    "slug": "trivago",
+    "hex": "E32851",
+    "hasWordmark": false
+  },
+  {
+    "title": "TRON",
+    "slug": "tron",
+    "hex": "FF060A",
+    "hasWordmark": false
+  },
+  {
+    "title": "tRPC",
+    "slug": "trpc",
+    "hex": "398CCB",
+    "hasWordmark": true
+  },
+  {
+    "title": "Trust Wallet",
+    "slug": "trustwallet",
+    "hex": "0500FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "TrustPilot",
+    "slug": "trustpilot",
+    "hex": "00B67A",
+    "hasWordmark": false
+  },
+  {
+    "title": "Tumblr",
+    "slug": "tumblr",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "Turbopack",
+    "slug": "turbopack",
+    "hex": "0096FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Turborepo",
+    "slug": "turborepo",
+    "hex": "0096FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Turso",
+    "slug": "turso",
+    "hex": "183134",
+    "hasWordmark": true
+  },
+  {
+    "title": "Twilio",
+    "slug": "twilio",
+    "hex": "F22F46",
+    "hasWordmark": false
+  },
+  {
+    "title": "Twitch",
+    "slug": "twitch",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "TypeORM",
+    "slug": "typeorm",
+    "hex": "8E8F8F",
+    "hasWordmark": false
+  },
+  {
+    "title": "TypeScript",
+    "slug": "typescript",
+    "hex": "3178C6",
+    "hasWordmark": false
+  },
+  {
+    "title": "Uber",
+    "slug": "uber",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Uber Eats",
+    "slug": "ubereats",
+    "hex": "06C167",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ubisoft",
+    "slug": "ubisoft",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Ubuntu",
+    "slug": "ubuntu",
+    "hex": "E95420",
+    "hasWordmark": false
+  },
+  {
+    "title": "Udacity",
+    "slug": "udacity",
+    "hex": "02B3E4",
+    "hasWordmark": false
+  },
+  {
+    "title": "Udemy",
+    "slug": "udemy",
+    "hex": "A435F0",
+    "hasWordmark": true
+  },
+  {
+    "title": "Unbounce",
+    "slug": "unbounce",
+    "hex": "303030",
+    "hasWordmark": true
+  },
+  {
+    "title": "Under Armour",
+    "slug": "underarmour",
+    "hex": "1D1D1D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Unimed",
+    "slug": "unimed",
+    "hex": "018553",
+    "hasWordmark": false
+  },
+  {
+    "title": "Uniqlo",
+    "slug": "uniqlo",
+    "hex": "FF0000",
+    "hasWordmark": false
+  },
+  {
+    "title": "United Airlines",
+    "slug": "unitedairlines",
+    "hex": "002244",
+    "hasWordmark": false
+  },
+  {
+    "title": "United Nations",
+    "slug": "unitednations",
+    "hex": "009EDB",
+    "hasWordmark": false
+  },
+  {
+    "title": "Unity",
+    "slug": "unity",
+    "hex": "FFFFFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "UnoCSS",
+    "slug": "unocss",
+    "hex": "858585",
+    "hasWordmark": false
+  },
+  {
+    "title": "Unreal Engine",
+    "slug": "unrealengine",
+    "hex": "0E1128",
+    "hasWordmark": false
+  },
+  {
+    "title": "Upstash",
+    "slug": "upstash",
+    "hex": "00C98D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Userdesk",
+    "slug": "userdesk",
+    "hex": "FFA800",
+    "hasWordmark": true
+  },
+  {
+    "title": "UV",
+    "slug": "uv",
+    "hex": "DE5FE9",
+    "hasWordmark": false
+  },
+  {
+    "title": "v0",
+    "slug": "v0",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Valorant",
+    "slug": "valorant",
+    "hex": "FA4454",
+    "hasWordmark": false
+  },
+  {
+    "title": "Venmo",
+    "slug": "venmo",
+    "hex": "008CFF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Vercel",
+    "slug": "vercel",
+    "hex": "000000",
+    "hasWordmark": true
+  },
+  {
+    "title": "Viber",
+    "slug": "viber",
+    "hex": "7360F2",
+    "hasWordmark": true
+  },
+  {
+    "title": "Vim",
+    "slug": "vim",
+    "hex": "019733",
+    "hasWordmark": false
+  },
+  {
+    "title": "Vimeo",
+    "slug": "vimeo",
+    "hex": "17B7EA",
+    "hasWordmark": true
+  },
+  {
+    "title": "Visa",
+    "slug": "visa",
+    "hex": "1A1F71",
+    "hasWordmark": false
+  },
+  {
+    "title": "Visual Studio",
+    "slug": "visualstudio",
+    "hex": "5E438F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Visual Studio Code",
+    "slug": "visualstudiocode",
+    "hex": "0065A9",
+    "hasWordmark": true
+  },
+  {
+    "title": "Vite",
+    "slug": "vite",
+    "hex": "646CFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Vitest",
+    "slug": "vitest",
+    "hex": "6E9F18",
+    "hasWordmark": false
+  },
+  {
+    "title": "Vivaldi",
+    "slug": "vivaldi",
+    "hex": "EF3939",
+    "hasWordmark": true
+  },
+  {
+    "title": "Vivo",
+    "slug": "vivo",
+    "hex": "415FFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "ViX",
+    "slug": "vix",
+    "hex": "FF5900",
+    "hasWordmark": true
+  },
+  {
+    "title": "VK",
+    "slug": "vk",
+    "hex": "0077FF",
+    "hasWordmark": false
+  },
+  {
+    "title": "VLC media player",
+    "slug": "vlcmediaplayer",
+    "hex": "FF8800",
+    "hasWordmark": false
+  },
+  {
+    "title": "Voiceflow",
+    "slug": "voiceflow",
+    "hex": "3086FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "hex": "151F5D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Volvo",
+    "slug": "volvo",
+    "hex": "003057",
+    "hasWordmark": false
+  },
+  {
+    "title": "VTEX",
+    "slug": "vtex",
+    "hex": "ED125F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Vue.js",
+    "slug": "vuedotjs",
+    "hex": "4FC08D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Vuetify",
+    "slug": "vuetify",
+    "hex": "AEDDFF",
+    "hasWordmark": false
+  },
+  {
+    "title": "VueUse",
+    "slug": "vueuse",
+    "hex": "35495E",
+    "hasWordmark": false
+  },
+  {
+    "title": "Vultr",
+    "slug": "vultr",
+    "hex": "C9F4FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "WakaTime",
+    "slug": "wakatime",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "WalletConnect",
+    "slug": "walletconnect",
+    "hex": "3396FF",
+    "hasWordmark": true
+  },
+  {
+    "title": "Walmart",
+    "slug": "walmart",
+    "hex": "FFC220",
+    "hasWordmark": true
+  },
+  {
+    "title": "Warp",
+    "slug": "warp",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Webflow",
+    "slug": "webflow",
+    "hex": "146EF5",
+    "hasWordmark": true
+  },
+  {
+    "title": "WebKit",
+    "slug": "webkit",
+    "hex": "34AADC",
+    "hasWordmark": false
+  },
+  {
+    "title": "Webpack",
+    "slug": "webpack",
+    "hex": "8DD6F9",
+    "hasWordmark": false
+  },
+  {
+    "title": "WebStorm",
+    "slug": "webstorm",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "WeChat",
+    "slug": "wechat",
+    "hex": "07C160",
+    "hasWordmark": false
+  },
+  {
+    "title": "Weibo",
+    "slug": "weibo",
+    "hex": "E6162D",
+    "hasWordmark": true
+  },
+  {
+    "title": "Western Union",
+    "slug": "westernunion",
+    "hex": "FFDD00",
+    "hasWordmark": false
+  },
+  {
+    "title": "WhatsApp",
+    "slug": "whatsapp",
+    "hex": "25D366",
+    "hasWordmark": true
+  },
+  {
+    "title": "Wikimedia Foundation",
+    "slug": "wikimediafoundation",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Wikipedia",
+    "slug": "wikipedia",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Windows",
+    "slug": "windows",
+    "hex": "00ADEF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Windsurf",
+    "slug": "windsurf",
+    "hex": "0B100F",
+    "hasWordmark": true
+  },
+  {
+    "title": "WireGuard",
+    "slug": "wireguard",
+    "hex": "88171A",
+    "hasWordmark": false
+  },
+  {
+    "title": "Wise",
+    "slug": "wise",
+    "hex": "163300",
+    "hasWordmark": true
+  },
+  {
+    "title": "Wistia",
+    "slug": "wistia",
+    "hex": "1E64F0",
+    "hasWordmark": true
+  },
+  {
+    "title": "Wix",
+    "slug": "wix",
+    "hex": "000008",
+    "hasWordmark": true
+  },
+  {
+    "title": "Wized",
+    "slug": "wized",
+    "hex": "111111",
+    "hasWordmark": true
+  },
+  {
+    "title": "WooCommerce",
+    "slug": "woocommerce",
+    "hex": "7D57A4",
+    "hasWordmark": true
+  },
+  {
+    "title": "WordPress",
+    "slug": "wordpress",
+    "hex": "32373C",
+    "hasWordmark": true
+  },
+  {
+    "title": "WorkOS",
+    "slug": "workos",
+    "hex": "6363F1",
+    "hasWordmark": false
+  },
+  {
+    "title": "X",
+    "slug": "x",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "xAI",
+    "slug": "xai",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Xano",
+    "slug": "xano",
+    "hex": "0461BD",
+    "hasWordmark": true
+  },
+  {
+    "title": "Xbox",
+    "slug": "xbox",
+    "hex": "107C10",
+    "hasWordmark": false
+  },
+  {
+    "title": "XD",
+    "slug": "xd",
+    "hex": "470137",
+    "hasWordmark": false
+  },
+  {
+    "title": "Xiaomi",
+    "slug": "xiaomi",
+    "hex": "FF6900",
+    "hasWordmark": false
+  },
+  {
+    "title": "XP Inc.",
+    "slug": "xp",
+    "hex": "121212",
+    "hasWordmark": false
+  },
+  {
+    "title": "XRP",
+    "slug": "xrp",
+    "hex": "23292F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Yahoo",
+    "slug": "yahoo",
+    "hex": "5F01D1",
+    "hasWordmark": true
+  },
+  {
+    "title": "Yamaha Motor Corporation",
+    "slug": "yamahamotorcorporation",
+    "hex": "E60012",
+    "hasWordmark": false
+  },
+  {
+    "title": "Yandex",
+    "slug": "yandex",
+    "hex": "FC3F1D",
+    "hasWordmark": true
+  },
+  {
+    "title": "Yandex Browser",
+    "slug": "yandexbrowser",
+    "hex": "EC1C24",
+    "hasWordmark": false
+  },
+  {
+    "title": "Yarn",
+    "slug": "yarn",
+    "hex": "2C8EBB",
+    "hasWordmark": false
+  },
+  {
+    "title": "Yelp",
+    "slug": "yelp",
+    "hex": "FF78A1",
+    "hasWordmark": true
+  },
+  {
+    "title": "YouTube",
+    "slug": "youtube",
+    "hex": "ED1F24",
+    "hasWordmark": true
+  },
+  {
+    "title": "YouTube Music",
+    "slug": "youtubemusic",
+    "hex": "F62B1E",
+    "hasWordmark": true
+  },
+  {
+    "title": "Yubico",
+    "slug": "yubico",
+    "hex": "84BD00",
+    "hasWordmark": false
+  },
+  {
+    "title": "Zapier",
+    "slug": "zapier",
+    "hex": "FF4F00",
+    "hasWordmark": true
+  },
+  {
+    "title": "Zara",
+    "slug": "zara",
+    "hex": "000000",
+    "hasWordmark": false
+  },
+  {
+    "title": "Zed Industries",
+    "slug": "zedindustries",
+    "hex": "084CCF",
+    "hasWordmark": false
+  },
+  {
+    "title": "Zelle",
+    "slug": "zelle",
+    "hex": "6D1ED4",
+    "hasWordmark": true
+  },
+  {
+    "title": "Zen Browser",
+    "slug": "zenbrowser",
+    "hex": "202020",
+    "hasWordmark": true
+  },
+  {
+    "title": "Zendesk",
+    "slug": "zendesk",
+    "hex": "03363D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Zenodo",
+    "slug": "zenodo",
+    "hex": "1682D4",
+    "hasWordmark": false
+  },
+  {
+    "title": "Zig",
+    "slug": "zig",
+    "hex": "F7A41D",
+    "hasWordmark": false
+  },
+  {
+    "title": "Zod",
+    "slug": "zod",
+    "hex": "18253F",
+    "hasWordmark": false
+  },
+  {
+    "title": "Zoho",
+    "slug": "zoho",
+    "hex": "089949",
+    "hasWordmark": false
+  },
+  {
+    "title": "Zoho CRM",
+    "slug": "zohocrm",
+    "hex": "226DB4",
+    "hasWordmark": true
+  },
+  {
+    "title": "Zoom",
+    "slug": "zoom",
+    "hex": "0845BF",
+    "hasWordmark": true
+  }
+]
