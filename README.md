@@ -47,10 +47,13 @@ All logos live in the repository as plain `.svg` files under `packages/logos/svg
 Two maintenance scripts (run inside `packages/logos`) help pull assets from external catalogs — they only fill in missing files and never overwrite yours:
 
 - `pnpm import:icons` — imports symbols from [Simple Icons](https://simpleicons.org) (CC0) for the slugs curated in `scripts/import-simple-icons.mjs`
+- `pnpm import:svgl` — imports symbols and full logotypes from [svgl](https://svgl.app) for the titles curated in `scripts/import-svgl.mjs`
 - `pnpm import:wordmarks` — imports full logotypes from [svgl](https://svgl.app) for brands already in `brands.json`
+- `pnpm import:wikimedia` — imports logos from [Wikimedia Commons](https://commons.wikimedia.org), accepting only Public domain/CC0 files
+- `pnpm import:thesvg` — imports icons from [thesvg](https://thesvg.org) (license logged per icon)
 
 ## License
 
 [CC0 1.0 Universal](./LICENSE) — public domain. No attribution required, use it however you want.
 
-Logo artwork is sourced from [Simple Icons](https://simpleicons.org) (CC0) and [svgl](https://svgl.app). All trademarks, logos and brand names belong to their respective owners; they are provided for identification purposes only.
+Logo artwork is sourced from [Simple Icons](https://simpleicons.org) (CC0), [svgl](https://svgl.app), [Wikimedia Commons](https://commons.wikimedia.org) (Public domain files only) and [thesvg](https://thesvg.org). All trademarks, logos and brand names belong to their respective owners; they are provided for identification purposes only.

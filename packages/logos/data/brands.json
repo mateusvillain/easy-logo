@@ -1052,7 +1052,7 @@
   {
     "slug": "gmail",
     "title": "Gmail",
-    "hex": "EA4335"
+    "hex": "FC413D"
   },
   {
     "slug": "gnome",
@@ -1092,12 +1092,12 @@
   {
     "slug": "googlecalendar",
     "title": "Google Calendar",
-    "hex": "4285F4"
+    "hex": "1A73E8"
   },
   {
     "slug": "googlechat",
     "title": "Google Chat",
-    "hex": "00AC47"
+    "hex": "34A853"
   },
   {
     "slug": "googlechrome",
@@ -1127,12 +1127,22 @@
   {
     "slug": "googledrive",
     "title": "Google Drive",
-    "hex": "4285F4"
+    "hex": "FEC700"
+  },
+  {
+    "slug": "googleforms",
+    "title": "Google Forms",
+    "hex": "7248B9"
   },
   {
     "slug": "googlegemini",
     "title": "Google Gemini",
     "hex": "8E75B2"
+  },
+  {
+    "slug": "googlekeep",
+    "title": "Google Keep",
+    "hex": "FFBB00"
   },
   {
     "slug": "googlemaps",
@@ -1155,9 +1165,29 @@
     "hex": "34A853"
   },
   {
+    "slug": "googlesites",
+    "title": "Google Sites",
+    "hex": "4285F4"
+  },
+  {
     "slug": "googleslides",
     "title": "Google Slides",
     "hex": "FBBC04"
+  },
+  {
+    "slug": "googletasks",
+    "title": "Google Tasks",
+    "hex": "2684FC"
+  },
+  {
+    "slug": "googlevids",
+    "title": "Google Vids",
+    "hex": "4285F4"
+  },
+  {
+    "slug": "googlevoice",
+    "title": "Google Voice",
+    "hex": "1A73E8"
   },
   {
     "slug": "gradio",

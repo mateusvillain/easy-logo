@@ -13,12 +13,14 @@
     "generate": "node scripts/generate.mjs",
     "import:icons": "node scripts/import-simple-icons.mjs",
     "import:svgl": "node scripts/import-svgl.mjs",
+    "import:thesvg": "node scripts/import-thesvg.mjs",
     "import:wikimedia": "node scripts/import-wikimedia.mjs",
     "import:wordmarks": "node scripts/import-svgl-wordmarks.mjs",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
     "simple-icons": "^15.0.0",
+    "thesvg": "^3.2.6",
     "typescript": "^5.8.0"
   }
 }
