@@ -2,7 +2,30 @@
   "name": "easy-logo",
   "version": "0.1.0",
   "private": true,
+  "description": "Search famous brand logos, download the SVG file, or copy the SVG code — all in one simple page.",
+  "homepage": "https://mateusvillain.github.io/easy-logo/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusvillain/easy-logo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mateusvillain/easy-logo/issues"
+  },
+  "author": {
+    "name": "Mateus Villain",
+    "email": "mateus@mateusvillain.com",
+    "url": "https://mateusvillain.com"
+  },
   "license": "CC0-1.0",
+  "keywords": [
+    "logo",
+    "logos",
+    "svg",
+    "brand",
+    "brands",
+    "icons",
+    "assets"
+  ],
   "packageManager": "pnpm@10.33.0",
   "scripts": {
     "dev": "pnpm --filter @easy-logo/web dev",
