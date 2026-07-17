@@ -11,6 +11,7 @@
   },
   "scripts": {
     "generate": "node scripts/generate.mjs",
+    "import:brandbird": "node scripts/import-brandbird.mjs",
     "import:icons": "node scripts/import-simple-icons.mjs",
     "import:svgl": "node scripts/import-svgl.mjs",
     "import:thesvg": "node scripts/import-thesvg.mjs",
